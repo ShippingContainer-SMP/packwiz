@@ -30,7 +30,7 @@ hash = "ae3ac32c7479293516b5e52b3fa2f75f850a19d5e00db836bb7238d3d3650a22"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "64736dfe35a3fd4a97b435a82a14d81005e50510e911b0456b1e8b332829c2fc"
+hash = "3b43d1c8d1ca556e367aff02624937f60362b716b6cf95179a05fbd3c21ad3b2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
-hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
+hash = "33980d424791a466be697577b8b9fa2404414f8480ef85b88c5855d986eb2272"
 metafile = true
 
 [[files]]
@@ -129,12 +129,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+hash = "60012bc9a1ea3bc93af2f1b04b2ca73e0cb51c618b6eaa8edf4b18b6a89246b1"
 metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
+hash = "b49ee14ee074461aeec7f010a852e4d4f086885619dedc5d1e1c639f352e1fa5"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "0ab0925b9d00ddcf75dc5077fba4eee2c825945a7590750e1821ba783fb26f37"
+hash = "aabd79188b44c0cfdb9a83445a05fce9f5be773d579f821e1fb8c4f11f057598"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/smoothboot-fabric.pw.toml"
-hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+hash = "7c0c3fdc225b1938ba7dc03cc06c3bc7e6e127617d6c1ffc77db1384f7544a75"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+hash = "bd5a6a0ddf6b0f26318524ca0bb2d9a6b393e2d19a6c3107a13e390dda3c1cd7"
 metafile = true
 
 [[files]]
@@ -255,4 +255,9 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
 metafile = true
