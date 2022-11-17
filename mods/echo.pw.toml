@@ -1,0 +1,13 @@
+name = "Echo+"
+filename = "echoplus-0.1.2-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8OCKcAnc/versions/AYbUOkjX/echoplus-0.1.2-1.19.jar"
+hash-format = "sha1"
+hash = "a691fb37550692a9bb79d016e08a7182e41453a6"
+
+[update]
+[update.modrinth]
+mod-id = "8OCKcAnc"
+version = "AYbUOkjX"

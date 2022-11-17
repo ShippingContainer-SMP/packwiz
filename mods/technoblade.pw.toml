@@ -1,0 +1,13 @@
+name = "Technoblade"
+filename = "tid1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Scah5HVm/versions/0.1/tid1.19.jar"
+hash-format = "sha1"
+hash = "638e1ad561ac6237738419745e7c93fd57dfbf65"
+
+[update]
+[update.modrinth]
+mod-id = "Scah5HVm"
+version = "HwyfmQBL"
