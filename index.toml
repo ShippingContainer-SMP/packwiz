@@ -316,11 +316,6 @@ hash = "cd8503c0470e7b254f1ef4b1b321e3aa265271ae4a77020459287d6dd2ec2ad6"
 metafile = true
 
 [[files]]
-file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "215fb8df4474c3893d7ef048065ec87aa02b9e956ce2b8b6f0306ad8943da8b1"
 metafile = true
