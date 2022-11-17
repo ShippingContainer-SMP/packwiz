@@ -266,6 +266,11 @@ hash = "fd06ca25cd900e63aeb0209bfae770d0ad0415b2f459f7b112369fbe70320265"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "4c3ba5bbbc1d3824182021a5a492f916357339cf65b009cfdb0be1e335d82528"
+metafile = true
+
+[[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
 hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
 metafile = true
