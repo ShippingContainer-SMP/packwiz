@@ -288,11 +288,6 @@ hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "69452044cc32d87cc0a1dfb0db5345b003a6384793e126fe33537fceafc70631"
-metafile = true
-
-[[files]]
 file = "mods/flighthelper.pw.toml"
 hash = "c29a2266f5563c8e56e060a59428740a5e69a9e0ab5eb941cc7afde2bb0548b0"
 metafile = true
@@ -453,11 +448,6 @@ hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "57c9b586d92581338dc9b7463074725f431b121db35cedaa7243d764afab68a8"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "a2e4e7b3b072d44a518ac1313c88d6f3b17727d554f700d91c7b4eb3588de50c"
 metafile = true
@@ -605,6 +595,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "fe29fcc69744fa90f4fd35890cc44033d1b5bca0e0d45cb40c89250eabad6ab3"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
