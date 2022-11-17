@@ -25,12 +25,28 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "422472dc3d1783a706d23bddaa775bca5970392505c575b143195cccd57b3982"
 
 [[files]]
+file = "config/yosbr/config/lowfire.json"
+hash = "7e9133ea5090a32536237ebc069095e3c445d42b13572122bb1de507ecd8e897"
+
+[[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "216e197355f772da28706eed826816b73d10f52a05db75291bf9d4b302149e21"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "b2e81ade6286aadd3a7e3f0a32a7c122ea665fd3ff74c9d563f31f3d2a3e71d6"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+
+[[files]]
+file = "config/yosbr/config/timestamp_chat.toml"
+hash = "c7f3fea7982dea7d7d5df4f1707ba58ad736ec6edeab20acf597e0803de95bb6"
+
+[[files]]
+file = "config/yosbr/config/wpit.json5"
+hash = "bbb10020301a419cff37221d2225ac9650eb73d1807fd90bfa076d277927e644"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
@@ -61,6 +77,11 @@ hash = "507eeaf95096d3868c75b510670cafc125aea702ee79dcd5eba5a48f217e6a58"
 metafile = true
 
 [[files]]
+file = "mods/afkdisplay.pw.toml"
+hash = "bf98d18aef6550c2d85ad9c28afc05929ce54a17cefce9e38aefe70340162a87"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
 metafile = true
@@ -78,6 +99,11 @@ metafile = true
 [[files]]
 file = "mods/armor-chroma-for-fabric.pw.toml"
 hash = "c5aed03f2fff1bc659f22a51590f70946474e038d878f2ff6f7ff41a954a9f8c"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-bucket-fix.pw.toml"
+hash = "14337a459231e6156b331a5ed3fa881f9c55e45fd5e4794ad8489c64e8396f65"
 metafile = true
 
 [[files]]
@@ -246,6 +272,11 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/easiervillagertrading.pw.toml"
+hash = "06614c130009ac62167aa8e192875f8677570d24c0937f37f24265b3dd23fb80"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
@@ -303,6 +334,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "45f53822d6febd75112246dbc25e5c4dfc5080249d871bb612e625e0c92636de"
 metafile = true
 
 [[files]]
@@ -371,6 +407,11 @@ hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
 metafile = true
 
 [[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "b893248407cbc155a5182b151acf50df075cef08bd0a9470c222425e8e47a809"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
@@ -393,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
+metafile = true
+
+[[files]]
+file = "mods/low-fire.pw.toml"
+hash = "5891e21a1b4f0bf9293cd835ca6e5a0dc0f080425dc5c0769640d58dfc0c7107"
 metafile = true
 
 [[files]]
@@ -468,6 +514,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "a2e4e7b3b072d44a518ac1313c88d6f3b17727d554f700d91c7b4eb3588de50c"
+metafile = true
+
+[[files]]
+file = "mods/numeral-ping.pw.toml"
+hash = "d66a3e2d8bd4e887e659460567a311f2a184a191be157804c757890f92d143d4"
 metafile = true
 
 [[files]]
@@ -581,8 +632,18 @@ hash = "29328041c055a8ed866e0af57c3269ecf4be986cb0769a2975191a38fa98dc35"
 metafile = true
 
 [[files]]
+file = "mods/tabtps.pw.toml"
+hash = "689bf94d0ad4ba52a7cfab340152abbf1bdc14151c22fc882b9f1cded48e0048"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "da5ef6d6ea7ab0a7b0691bb54091dddeb4bf462258756aec1f479ab9f6e62466"
+metafile = true
+
+[[files]]
+file = "mods/timestamp-chat.pw.toml"
+hash = "5a2d646c2cfb2609ffb707226eeea8811f1318572794a3b0980fe13f3aede398"
 metafile = true
 
 [[files]]
@@ -621,8 +682,23 @@ hash = "611acf5d49a1589ee2d209b21efb6b7602fe3bd5a7b69a73ef3f83921383f618"
 metafile = true
 
 [[files]]
+file = "mods/wpit.pw.toml"
+hash = "b66c0748890e7453aedb8c085c03e7984daedc090ea7eabed7673a2973c9c232"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "b003caafe717cbbf9ba2a7539bdd361e4d7e58e0d9602bd81a41387691b7e70c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "033249ec4b307d48fa1ce8ae2ea39d13355cd94580a90b9dc422de2890a7b179"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a357191187a74983c7bd9e8f5cc7efddb15929031b989858a1182265f4e6be0f"
 metafile = true
 
 [[files]]
