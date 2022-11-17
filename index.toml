@@ -5,6 +5,14 @@ file = "_config.yml"
 hash = "485e7574c4a5fcb8433e32d7bcaea2a0f0be2db482b06bba1abc7b8d6957221e"
 
 [[files]]
+file = "config/yosbr/config/bclib/client.json"
+hash = "fdbb7fdce61cc15da87514d0f54e0709d5533d0f0d2446cee4a6f40d66fd3198"
+
+[[files]]
+file = "config/yosbr/config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "1cba40748219add171324904e2c4f19020ad6a03ecb3d24d45212e9f14475f6c"
 
@@ -75,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/baby-powder.pw.toml"
 hash = "e8e8f697858e6c975a33fe0b385bd56f72874018d47c16eadc423a8580171ad2"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
 metafile = true
 
 [[files]]
@@ -245,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/echoes-of-the-past.pw.toml"
 hash = "d052a4082ff55efa6bdcc469523299abdf94135f85a61830a1da8ea4dff6a6a3"
+metafile = true
+
+[[files]]
+file = "mods/effective.pw.toml"
+hash = "fd06ca25cd900e63aeb0209bfae770d0ad0415b2f459f7b112369fbe70320265"
 metafile = true
 
 [[files]]
@@ -508,6 +526,11 @@ hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "29d1cea9913dd854ba5b411fc632290f1b07cd1178b0309aee487fc2c8aa4e36"
+metafile = true
+
+[[files]]
 file = "mods/simple-shulker-preview.pw.toml"
 hash = "e48b9bd2c6543cb91f83338cbe01647a3010b3a6a92c9065d65816bbbdee9a68"
 metafile = true
@@ -590,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/wildfirefly.pw.toml"
 hash = "611acf5d49a1589ee2d209b21efb6b7602fe3bd5a7b69a73ef3f83921383f618"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "b003caafe717cbbf9ba2a7539bdd361e4d7e58e0d9602bd81a41387691b7e70c"
 metafile = true
 
 [[files]]
