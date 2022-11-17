@@ -98,11 +98,6 @@ hash = "034bb649928db6d2f27cf2f18c6c3a17c7732602386347e94b09fdb112965ac3"
 metafile = true
 
 [[files]]
-file = "mods/better-biome-blend.pw.toml"
-hash = "33980d424791a466be697577b8b9fa2404414f8480ef85b88c5855d986eb2272"
-metafile = true
-
-[[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "5a32457d03397962ca0ac645236f9e212c01a9589768857f85f49d5427ed8ce1"
 metafile = true
@@ -288,11 +283,6 @@ hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "60012bc9a1ea3bc93af2f1b04b2ca73e0cb51c618b6eaa8edf4b18b6a89246b1"
-metafile = true
-
-[[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "69452044cc32d87cc0a1dfb0db5345b003a6384793e126fe33537fceafc70631"
 metafile = true
@@ -305,11 +295,6 @@ metafile = true
 [[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "cd8503c0470e7b254f1ef4b1b321e3aa265271ae4a77020459287d6dd2ec2ad6"
-metafile = true
-
-[[files]]
-file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "b49ee14ee074461aeec7f010a852e4d4f086885619dedc5d1e1c639f352e1fa5"
 metafile = true
 
 [[files]]
@@ -365,11 +350,6 @@ metafile = true
 [[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
-metafile = true
-
-[[files]]
-file = "mods/lambdabettergrass.pw.toml"
-hash = "aabd79188b44c0cfdb9a83445a05fce9f5be773d579f821e1fb8c4f11f057598"
 metafile = true
 
 [[files]]
@@ -528,11 +508,6 @@ hash = "e48b9bd2c6543cb91f83338cbe01647a3010b3a6a92c9065d65816bbbdee9a68"
 metafile = true
 
 [[files]]
-file = "mods/smooth-boot.pw.toml"
-hash = "eb68f07474889d53f9b81902ad7aca2979604aa6d5102327574b687b1e1c1424"
-metafile = true
-
-[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "7c0c3fdc225b1938ba7dc03cc06c3bc7e6e127617d6c1ffc77db1384f7544a75"
 metafile = true
@@ -555,11 +530,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "79870ab97caf526e6599d2d429ef778848935bbaf2c7020948e203afbb3f32bc"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "bd5a6a0ddf6b0f26318524ca0bb2d9a6b393e2d19a6c3107a13e390dda3c1cd7"
 metafile = true
 
 [[files]]
