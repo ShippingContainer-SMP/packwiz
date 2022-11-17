@@ -548,8 +548,8 @@ hash = "29328041c055a8ed866e0af57c3269ecf4be986cb0769a2975191a38fa98dc35"
 metafile = true
 
 [[files]]
-file = "mods/technoblade.pw.toml"
-hash = "8c7399f18e430602fa057c87f9ae16cb12027c43ff98e19b8e4c5b3e29283918"
+file = "mods/terrablender-fabric.pw.toml"
+hash = "da5ef6d6ea7ab0a7b0691bb54091dddeb4bf462258756aec1f479ab9f6e62466"
 metafile = true
 
 [[files]]
