@@ -486,6 +486,11 @@ hash = "f344dd58b1d443a6f70a1c6183062d24fd815e5e82ca475efaeb51dc9d6437a0"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "814b7eba555ba7ae027ca4bb1cd2b2a9b153b95fca5d0246c6d7b791b489c937"
+metafile = true
+
+[[files]]
 file = "mods/postmortal-inventory.pw.toml"
 hash = "ce5a74f1ed40b278dd11b0a8e7ae46bf5d24dff6eb3ca8402114a36e22a3f234"
 metafile = true
