@@ -283,6 +283,11 @@ hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
 file = "mods/flighthelper.pw.toml"
 hash = "c29a2266f5563c8e56e060a59428740a5e69a9e0ab5eb941cc7afde2bb0548b0"
 metafile = true
