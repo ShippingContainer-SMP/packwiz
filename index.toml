@@ -217,11 +217,6 @@ hash = "bac27de108006fefe899a18578b805ce04b933ccfe7388f725ac732fbd9bc16d"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
-metafile = true
-
-[[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "1a4c9d83b0709fd2f91814eb67f81e19bb1493315c42cb65efe911d0f34c5a13"
 metafile = true
