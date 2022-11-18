@@ -247,6 +247,11 @@ hash = "c24f639d603067b4930afa261923885764ce16db45a79fc85a5e145cbecacbf1"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "b4af96515a0d2f506f605ec20a6d31c4f70f1229437395b021e3747b6f8a4c06"
 metafile = true
