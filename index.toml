@@ -5,32 +5,12 @@ file = "_config.yml"
 hash = "485e7574c4a5fcb8433e32d7bcaea2a0f0be2db482b06bba1abc7b8d6957221e"
 
 [[files]]
-file = "config/yosbr/config/bclib/biomes.json"
-hash = "d019310607f2026a4bf4c6b5ad3ac4726d120755551df9f00cc0aac5319dd71d"
-
-[[files]]
-file = "config/yosbr/config/bclib/cache.json"
-hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
-
-[[files]]
 file = "config/yosbr/config/bclib/client.json"
 hash = "475b6b023aaed34c8710f8986b0d7161a89d0b5cdb14b1f38fbdaf114fc7ec94"
 
 [[files]]
-file = "config/yosbr/config/bclib/generator.json"
-hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
-
-[[files]]
 file = "config/yosbr/config/bclib/main.json"
 hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
-
-[[files]]
-file = "config/yosbr/config/bclib/recipes.json"
-hash = "3448a40718ccbfde6d8f260daa2f93e66ac9b32617274cc4a10b963b66d32b22"
-
-[[files]]
-file = "config/yosbr/config/bclib/server.json"
-hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -114,6 +94,11 @@ metafile = true
 [[files]]
 file = "mods/armor-chroma-for-fabric.pw.toml"
 hash = "c5aed03f2fff1bc659f22a51590f70946474e038d878f2ff6f7ff41a954a9f8c"
+metafile = true
+
+[[files]]
+file = "mods/armored-elytra.pw.toml"
+hash = "b46af2de1693fcaf892fd6dd1734915a9a36549093144b724e940cce5936e17c"
 metafile = true
 
 [[files]]
@@ -704,11 +689,6 @@ metafile = true
 [[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "ac9e06701993eb8f2555b8d00d4d1dde4c5ad96468458072fc3bf889e1cd6df5"
-metafile = true
-
-[[files]]
-file = "mods/wildfirefly.pw.toml"
-hash = "611acf5d49a1589ee2d209b21efb6b7602fe3bd5a7b69a73ef3f83921383f618"
 metafile = true
 
 [[files]]
