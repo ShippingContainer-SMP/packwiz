@@ -5,6 +5,34 @@ file = "_config.yml"
 hash = "485e7574c4a5fcb8433e32d7bcaea2a0f0be2db482b06bba1abc7b8d6957221e"
 
 [[files]]
+file = "config/yosbr/config/bclib/biomes.json"
+hash = "d019310607f2026a4bf4c6b5ad3ac4726d120755551df9f00cc0aac5319dd71d"
+
+[[files]]
+file = "config/yosbr/config/bclib/cache.json"
+hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
+
+[[files]]
+file = "config/yosbr/config/bclib/client.json"
+hash = "475b6b023aaed34c8710f8986b0d7161a89d0b5cdb14b1f38fbdaf114fc7ec94"
+
+[[files]]
+file = "config/yosbr/config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/yosbr/config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/yosbr/config/bclib/recipes.json"
+hash = "3448a40718ccbfde6d8f260daa2f93e66ac9b32617274cc4a10b963b66d32b22"
+
+[[files]]
+file = "config/yosbr/config/bclib/server.json"
+hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+
+[[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "1cba40748219add171324904e2c4f19020ad6a03ecb3d24d45212e9f14475f6c"
 
@@ -66,11 +94,6 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "507eeaf95096d3868c75b510670cafc125aea702ee79dcd5eba5a48f217e6a58"
-metafile = true
-
-[[files]]
-file = "mods/afkdisplay.pw.toml"
-hash = "bf98d18aef6550c2d85ad9c28afc05929ce54a17cefce9e38aefe70340162a87"
 metafile = true
 
 [[files]]
@@ -295,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "fd06ca25cd900e63aeb0209bfae770d0ad0415b2f459f7b112369fbe70320265"
+hash = "3853b370c0f12e4c99b15470e11c83119f96cde01d0ae26d19d93d2caf130065"
 metafile = true
 
 [[files]]
@@ -405,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
+hash = "fbac113e15515eaea7aed9e995cc92dcb9741845c95c695654e3caf1e0e677fa"
 metafile = true
 
 [[files]]
