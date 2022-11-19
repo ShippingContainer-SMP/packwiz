@@ -1,0 +1,17 @@
+version:3105
+autoJump:false
+chatLinksPrompt:false
+enableVsync:false
+directionalAudio:true
+fullscreen:true
+renderDistance:12
+simulationDistance:8
+maxFps:60
+pauseOnLostFocus:true
+graphicsMode:1
+biomeBlendRadius:5
+attackIndicator:1
+rawMouseInput:true
+skipMultiplayerWarning:true
+tutorialStep:none
+advancedItemTooltips:true
