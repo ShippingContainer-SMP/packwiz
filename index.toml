@@ -73,10 +73,6 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "63925a23b6180b86b369d42213e7b9833f4a2b7757be4fb73eb6a69992005ecc"
 
 [[files]]
-file = "config/yosbr/config/okzoomer.json5"
-hash = "e7e05a60ee978b45b069ec4f08c5ee98b21a33c6620f7af9946a2bdcaed297f5"
-
-[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "b2e81ade6286aadd3a7e3f0a32a7c122ea665fd3ff74c9d563f31f3d2a3e71d6"
 
@@ -489,11 +485,6 @@ metafile = true
 [[files]]
 file = "mods/wandering-collector.pw.toml"
 hash = "ff70792c0effb18c509f37d387a6712a15b6893e7eb898d7671b20f4b2d8756f"
-metafile = true
-
-[[files]]
-file = "mods/wilder-wild.pw.toml"
-hash = "ac9e06701993eb8f2555b8d00d4d1dde4c5ad96468458072fc3bf889e1cd6df5"
 metafile = true
 
 [[files]]
