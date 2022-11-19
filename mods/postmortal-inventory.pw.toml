@@ -1,0 +1,13 @@
+name = "Postmortal Inventory"
+filename = "postmortal_inventory-0.1.0+1.19.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VEewM7Jz/versions/pUVOBcgF/postmortal_inventory-0.1.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "0615df1c4be96d308205662eddd2911018b3bb29"
+
+[update]
+[update.modrinth]
+mod-id = "VEewM7Jz"
+version = "pUVOBcgF"
