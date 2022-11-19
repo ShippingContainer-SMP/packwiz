@@ -868,6 +868,11 @@ hash = "63dc69c2b6fe30ccd872f25ad724105d24032368886ce719c5ab75bbd6692952"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
+metafile = true
+
+[[files]]
 file = "mods/beaconoverhaul.pw.toml"
 hash = "1f16e5cbb50166ab17d0e0df36938fbea59b07fc06fdbe7bd3225d4ce0db4b27"
 metafile = true
