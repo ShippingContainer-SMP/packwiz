@@ -13,6 +13,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
 
 [[files]]
+file = "config/yosbr/config/bclib/client.json"
+hash = "08a66f9710cb4c05ea1873f5d8e240a26fda072bd280df22469fe1f9182a3fb5"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "22311db995c97f36df94e708a3d1b916f3a066c00172e579c7fa2ddc92a5fe89"
 
@@ -61,6 +65,26 @@ file = "config/yosbr/options.txt"
 hash = "e5c395bcca7e5f6263514d0c9ea685a4d206c3a40b25e74b47ca52bd570ef7fb"
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "cb26574a1fa20ea279b722a7dab37ee96e8946f693242b2d4096c145f80802b6"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "e3745fe039940bde438767cf84d1d313bec5d806415b185ac4386c368190a6f9"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
+metafile = true
+
+[[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
 metafile = true
@@ -93,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "7fac854ae0b4eedbbb3e6f358e9605cc1e523ba8ff5d77d37593757d899a8f00"
 metafile = true
 
 [[files]]
@@ -131,8 +160,18 @@ hash = "3c18caff27abeb8c609585c58f02178a5804c7ff999b1027becf54a0c97dc211"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "e31f409ab01c4df8b9b678cb533722b852c38d1563f6ead0ef40f282b17c45ff"
 metafile = true
 
 [[files]]
@@ -143,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "199bf931e17458fa299e16fc5f761241dde9ff1f9e62fe33e52acdcc1fcc2aa0"
 metafile = true
 
 [[files]]
