@@ -188,8 +188,3 @@ metafile = true
 file = "mods/terrablender-fabric.pw.toml"
 hash = "199bf931e17458fa299e16fc5f761241dde9ff1f9e62fe33e52acdcc1fcc2aa0"
 metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "c887fcea6968ff6069e59c9398f4b57dae4f3038e5f80453a074d35284b5acf4"
-metafile = true
