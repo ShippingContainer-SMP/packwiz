@@ -1,0 +1,13 @@
+name = "Flat World"
+filename = "flatworld-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xZIo4pHq/versions/ZzXL13Ik/flatworld-1.0.1.jar"
+hash-format = "sha1"
+hash = "6be7fe4afcc210ea2ec81f02d12b1e54dcc3a654"
+
+[update]
+[update.modrinth]
+mod-id = "xZIo4pHq"
+version = "ZzXL13Ik"

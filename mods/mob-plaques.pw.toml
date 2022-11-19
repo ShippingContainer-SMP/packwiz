@@ -1,0 +1,13 @@
+name = "Mob Plaques"
+filename = "MobPlaques-v4.0.0-1.19.2-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3b1CFIR5/versions/VyiEPoIo/MobPlaques-v4.0.0-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "9ac3bff964704eef28d7deb7e90233ae8e7c6127"
+
+[update]
+[update.modrinth]
+mod-id = "3b1CFIR5"
+version = "VyiEPoIo"
