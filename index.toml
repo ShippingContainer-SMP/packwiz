@@ -13,6 +13,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
 
 [[files]]
+file = "config/yosbr/config/PlasmoVoice/server.yml"
+hash = "03888fc0b258704b3087571e1192ca7345631a4bb54ecdf386c12a678b32f014"
+
+[[files]]
 file = "config/yosbr/config/TabTPS/display-configs/default.conf"
 hash = "38ccccf1ddb459531bd78475b104d7c6069b9de86a84471ed23fc7f382e1088b"
 
@@ -91,6 +95,10 @@ hash = "0485d0b99a1b20be798af6bc322972603b6f5f558ab07da88c09ba45028dfb80"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "eb4e39330d15acacfdcd255a88c75358da54dfcab6c1aaefa37874a165995d45"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "be4d7679146707dd19e9f49def862e0c42197db4c2664abd3cbb76bcdf4bfab0"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -660,11 +668,6 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "3c18caff27abeb8c609585c58f02178a5804c7ff999b1027becf54a0c97dc211"
-metafile = true
-
-[[files]]
-file = "mods/quilt-loading-screen.pw.toml"
-hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
 metafile = true
 
 [[files]]
