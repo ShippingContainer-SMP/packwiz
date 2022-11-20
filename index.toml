@@ -14,7 +14,7 @@ hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
 
 [[files]]
 file = "config/yosbr/config/PlasmoVoice/server.yml"
-hash = "03888fc0b258704b3087571e1192ca7345631a4bb54ecdf386c12a678b32f014"
+hash = "5f5144d51822148513a43e1fc841d29b33cd7578905c3825be72a1840d753356"
 
 [[files]]
 file = "config/yosbr/config/TabTPS/display-configs/default.conf"
@@ -98,7 +98,7 @@ hash = "eb4e39330d15acacfdcd255a88c75358da54dfcab6c1aaefa37874a165995d45"
 
 [[files]]
 file = "config/yosbr/servers.dat"
-hash = "be4d7679146707dd19e9f49def862e0c42197db4c2664abd3cbb76bcdf4bfab0"
+hash = "44581e2b0feec95a3bd4d0b2be675011570d440983495f2d1c5d010d120af6f2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

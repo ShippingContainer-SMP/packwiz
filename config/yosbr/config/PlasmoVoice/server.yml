@@ -1,6 +1,6 @@
 udp:
-  ip: host.grabmy.wang
-  port: 54212
+  ip: 0.0.0.0
+  port: 25522
 
 # Supported sample rates:
 # 8000
