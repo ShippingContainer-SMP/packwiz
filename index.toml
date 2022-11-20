@@ -296,6 +296,11 @@ hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
 metafile = true
 
 [[files]]
+file = "mods/capybara-fabric.pw.toml"
+hash = "665945ad54c13e2ef4a2b06b2d6723b16b03339853ada777131eee3996fcd1ab"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
@@ -491,6 +496,11 @@ hash = "173f85a293b5f5fa525213de66e6b4cfcc45f1010888029458a6dd4b4b848e9a"
 metafile = true
 
 [[files]]
+file = "mods/grims-transportables.pw.toml"
+hash = "9495b9a30c2be56ffac6bb1bcb4fb4938a0106c7f3c6adbb47ddb60bd99e2f53"
+metafile = true
+
+[[files]]
 file = "mods/half-doors.pw.toml"
 hash = "fd34910c7292b2b48bb57c2b348c968cf5ea58f7c19683bf662ef801d167e233"
 metafile = true
@@ -498,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c288cf990690ddd6d3aa44373c7d7293a84cadd0c3249204df22a1b257e417e3"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "836424ea5f6d4c3f08c33fc4e1e2436f5d9b3c91bde702e1a64bd5fdb0d26882"
 metafile = true
 
 [[files]]
@@ -641,6 +656,11 @@ hash = "b213a6cb053749ac347418bc7c7bd297243bfad6a6133c839c12719ce5cc19a0"
 metafile = true
 
 [[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "d8c55635038a200919fb8df2b96c0a26e05d4a1738a0e114aa03523ef7759f76"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "507bc64b94ff03432f5e061318fe9d6765d6fd66b3075e91d209e023f08f60f7"
 metafile = true
@@ -708,6 +728,11 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore-fabric.pw.toml"
 hash = "7ed8ccc2ab1e984da37776df01c1d03be14fc6479e53c061ae2aaa1ad78c830e"
+metafile = true
+
+[[files]]
+file = "mods/simple-backpack-fabric.pw.toml"
+hash = "9e0cfc6e9bf341be13f220cba649a3420597025aebae9af7e12fa8c452ace24d"
 metafile = true
 
 [[files]]

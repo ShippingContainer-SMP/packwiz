@@ -1,0 +1,13 @@
+name = "Immersive Paintings"
+filename = "immersive_paintings-0.3.1+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6txNkua3/versions/9GQcdGZU/immersive_paintings-0.3.1%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "914c3108fe882e5d9000b6d48c26d2f0855cde8d"
+
+[update]
+[update.modrinth]
+mod-id = "6txNkua3"
+version = "9GQcdGZU"
