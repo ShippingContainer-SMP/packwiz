@@ -196,6 +196,11 @@ hash = "1f16e5cbb50166ab17d0e0df36938fbea59b07fc06fdbe7bd3225d4ce0db4b27"
 metafile = true
 
 [[files]]
+file = "mods/bedrock-breakers.pw.toml"
+hash = "b78e8bb615a4518a7862b14fead027210c6b213f20fd7d3fd65c42c08b90efe8"
+metafile = true
+
+[[files]]
 file = "mods/bedrockwaters.pw.toml"
 hash = "e143f0581d9a5079eef15faa984c73f8b242d7a54c0472b1ed461789eb91241b"
 metafile = true
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "aa5edd2c0991a3e43e61bc8c20afc354c9101a328c319af6f2a7682f14764b4c"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
 metafile = true
 
 [[files]]
