@@ -94,7 +94,7 @@ hash = "0485d0b99a1b20be798af6bc322972603b6f5f558ab07da88c09ba45028dfb80"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "eb4e39330d15acacfdcd255a88c75358da54dfcab6c1aaefa37874a165995d45"
+hash = "e373cfe2ae546a6f7747f4743fafef96989d939f74c3689ca4767eea53c6a8a6"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -138,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/antighost.pw.toml"
 hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true
 
 [[files]]
@@ -303,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
 hash = "127951df726d724de421e631b03cc8853da6f1d750968c97a38ba5bc33ff26f1"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
 metafile = true
 
 [[files]]
@@ -521,6 +531,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "70fd6405f34b01b503b5aa10176a5f011c963290e75b23aa9b9d19e3bc1dc177"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
@@ -553,11 +568,6 @@ metafile = true
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "b6ca967b9c71b6f86576e2856c8620526df7d2563bb4ea3d3188e7e18aa6b102"
-metafile = true
-
-[[files]]
-file = "mods/mob-plaques.pw.toml"
-hash = "894d44ed9deb8e22759a467ac93b98c5cd2cf7c2e3189dce130f139e6d14d2d8"
 metafile = true
 
 [[files]]
@@ -773,6 +783,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "89b25533c6a11961a4640f4f3cd1c6dbf4678e101423c1dbb02c1a6386fdc707"
 metafile = true
 
 [[files]]
