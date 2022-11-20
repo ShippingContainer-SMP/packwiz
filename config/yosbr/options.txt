@@ -19,3 +19,4 @@ guiScale:2
 soundCategory_master:0.5066225
 soundCategory_music:0.0
 soundCategory_ambient:0.10739437
+key_key.plasmo_voice.settings:key.keyboard.semicolon

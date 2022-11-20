@@ -25,6 +25,10 @@ file = "config/yosbr/config/TabTPS/themes/default.conf"
 hash = "be849ebc154c84986260430f6c52ba9c61aad140756b589d07169c2e3e80447e"
 
 [[files]]
+file = "config/yosbr/config/auto-crouch.json5"
+hash = "05fcd06d9990a20cd94db5dcb4ca1edc7c76bfb0b00438471dba3a8c6e6146b3"
+
+[[files]]
 file = "config/yosbr/config/bclib/client.json"
 hash = "08a66f9710cb4c05ea1873f5d8e240a26fda072bd280df22469fe1f9182a3fb5"
 
@@ -73,10 +77,6 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "63925a23b6180b86b369d42213e7b9833f4a2b7757be4fb73eb6a69992005ecc"
 
 [[files]]
-file = "config/yosbr/config/sodium-extra-options.json"
-hash = "b2e81ade6286aadd3a7e3f0a32a7c122ea665fd3ff74c9d563f31f3d2a3e71d6"
-
-[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
 
@@ -90,7 +90,7 @@ hash = "0485d0b99a1b20be798af6bc322972603b6f5f558ab07da88c09ba45028dfb80"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1080778f27ed357ac4ac023269f9e8ad329da2951a17bb0fc3fbaa765591415f"
+hash = "eb4e39330d15acacfdcd255a88c75358da54dfcab6c1aaefa37874a165995d45"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -705,11 +705,6 @@ metafile = true
 [[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "fbc7cf43256806a71a7ea1ee1c05bccfd94be736c5def2c2a5ed1908753e501f"
 metafile = true
 
 [[files]]
