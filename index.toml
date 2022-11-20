@@ -29,20 +29,20 @@ file = "config/yosbr/config/bclib/client.json"
 hash = "08a66f9710cb4c05ea1873f5d8e240a26fda072bd280df22469fe1f9182a3fb5"
 
 [[files]]
+file = "config/yosbr/config/bclib/server.json"
+hash = "6b25d6ffb43ee1f8b7ec091431380ff2289f3ce794bdb7a5058d5e5cb34aa58f"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "22311db995c97f36df94e708a3d1b916f3a066c00172e579c7fa2ddc92a5fe89"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "fc32b10d23ccef668fcd1b168f58986937f982bd6b5ade5dc19e6816c08a89ce"
+hash = "9632d59b9ed224cce48f7d521dcf43a82ec7108cd54c04132be78cc9e450178b"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "1cba40748219add171324904e2c4f19020ad6a03ecb3d24d45212e9f14475f6c"
-
-[[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
-hash = "ec41dd68c6597bceb4c9fea1093bbff36ce60dfafd74c727e696762aadfb657a"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
