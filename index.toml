@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "5519f0de2355bd89b3046aeb2aa9c5450416ef1c00f18bffc3d86c6c5f69a7da"
+hash = "9c4b685f7373e41e8b0bb99a2f0aba645d46a63259c1d154e498cc14815f6f7f"
 metafile = true
 
 [[files]]
@@ -464,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "7fac854ae0b4eedbbb3e6f358e9605cc1e523ba8ff5d77d37593757d899a8f00"
+hash = "173f85a293b5f5fa525213de66e6b4cfcc45f1010888029458a6dd4b4b848e9a"
 metafile = true
 
 [[files]]
@@ -505,6 +505,11 @@ metafile = true
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "575bdefe476d24d7d50f7ac66bd80bf8c770d108bf4683a2e7d772c3dabb4fb1"
 metafile = true
 
 [[files]]
@@ -639,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/powah.pw.toml"
-hash = "2b5f97cededc5500456124e6aa9f70255309afac53a4b92b31064b4027868ee8"
+hash = "ca18796a9db2d6bb948b0b58dec77b008701da2e232b7c53b6d6030b59616047"
 metafile = true
 
 [[files]]
@@ -704,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "e31f409ab01c4df8b9b678cb533722b852c38d1563f6ead0ef40f282b17c45ff"
+hash = "fbc7cf43256806a71a7ea1ee1c05bccfd94be736c5def2c2a5ed1908753e501f"
 metafile = true
 
 [[files]]
