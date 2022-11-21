@@ -13,6 +13,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
 
 [[files]]
+file = "config/yosbr/config/PlasmoVoice/config.json"
+hash = "f29f615f21b5fe750a996d747fa43c6d08285a00b05fc40563a6f5d38bc9eea8"
+
+[[files]]
 file = "config/yosbr/config/PlasmoVoice/server.yml"
 hash = "5f5144d51822148513a43e1fc841d29b33cd7578905c3825be72a1840d753356"
 
@@ -808,11 +812,6 @@ metafile = true
 [[files]]
 file = "mods/timestamp-chat.pw.toml"
 hash = "5a2d646c2cfb2609ffb707226eeea8811f1318572794a3b0980fe13f3aede398"
-metafile = true
-
-[[files]]
-file = "mods/towns-and-towers.pw.toml"
-hash = "5b6c7dd7ab9a6be4d52d29983de2c9982650e83c3c05389c6f0ae59c7c3cfa90"
 metafile = true
 
 [[files]]
