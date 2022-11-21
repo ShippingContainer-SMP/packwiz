@@ -270,11 +270,6 @@ hash = "aa5edd2c0991a3e43e61bc8c20afc354c9101a328c319af6f2a7682f14764b4c"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "37031b97299b444d87cebb4c40091fca6130cc1ffd5d5eac7bd56ff1406cfa10"
 metafile = true
@@ -370,6 +365,11 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view-fabric.pw.toml"
+hash = "3580c51958e6fd25cd247d1b3405e497faac54d47fe1a1d2d951e7c17c47c0d9"
+metafile = true
+
+[[files]]
 file = "mods/easiervillagertrading.pw.toml"
 hash = "06614c130009ac62167aa8e192875f8677570d24c0937f37f24265b3dd23fb80"
 metafile = true
@@ -447,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "45f53822d6febd75112246dbc25e5c4dfc5080249d871bb612e625e0c92636de"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "571c28f3e4ecb7cc99834df642e9a09f1307a8eb5ef76e5f97c332334c96bd9e"
 metafile = true
 
 [[files]]
