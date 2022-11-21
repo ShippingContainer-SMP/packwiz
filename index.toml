@@ -57,6 +57,10 @@ file = "config/yosbr/config/dynamicfps.toml"
 hash = "1cba40748219add171324904e2c4f19020ad6a03ecb3d24d45212e9f14475f6c"
 
 [[files]]
+file = "config/yosbr/config/dynview.json"
+hash = "9c28783b2456da472a5ccfbce40b340e7d5a4dd10eb89f81c19a55fdae705e90"
+
+[[files]]
 file = "config/yosbr/config/entityculling.json"
 hash = "e4b8b16b713435ca783e59484de3f5543c25419b9f9e50909f9c13a87c595803"
 
@@ -131,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "507eeaf95096d3868c75b510670cafc125aea702ee79dcd5eba5a48f217e6a58"
+hash = "ccafa1559f7296be0743d0971e5c81042a35d71e89c99df0c4ed1ee371f1664a"
 metafile = true
 
 [[files]]
@@ -296,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/capybara-fabric.pw.toml"
-hash = "665945ad54c13e2ef4a2b06b2d6723b16b03339853ada777131eee3996fcd1ab"
+hash = "1125fbddaf07c630e8faf78c1b5a1ca09b79670198762c0013b66a90729831b5"
 metafile = true
 
 [[files]]
@@ -446,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "45f53822d6febd75112246dbc25e5c4dfc5080249d871bb612e625e0c92636de"
+hash = "423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200"
 metafile = true
 
 [[files]]
@@ -621,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
+hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
 metafile = true
 
 [[files]]
@@ -821,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
+hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
 metafile = true
 
 [[files]]
