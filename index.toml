@@ -404,6 +404,11 @@ hash = "4c3ba5bbbc1d3824182021a5a492f916357339cf65b009cfdb0be1e335d82528"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "1b3706e9e9c79ad136499976a2fd48a60a33f9820ccabdf9aeac76475255b259"
+metafile = true
+
+[[files]]
 file = "mods/enderchests-fabric.pw.toml"
 hash = "27c59c047bc2fc83fa222d05e47e20d6f34fb955c56ebe6c7fc148835f626ffe"
 metafile = true
@@ -486,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "215fb8df4474c3893d7ef048065ec87aa02b9e956ce2b8b6f0306ad8943da8b1"
+metafile = true
+
+[[files]]
+file = "mods/frame-api.pw.toml"
+hash = "8178032232586e97c3db3aa7c9f5c3901d98c53b6aeed32097a4acbfd908c374"
 metafile = true
 
 [[files]]
@@ -841,6 +851,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "49f66f26db6f00e16e94c0b161f3786f9d7afaef4667e78b9e5e35a1c9556a7d"
 metafile = true
 
 [[files]]
