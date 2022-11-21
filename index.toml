@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/capybara-fabric.pw.toml"
-hash = "1125fbddaf07c630e8faf78c1b5a1ca09b79670198762c0013b66a90729831b5"
+hash = "b2bbe1803807a344d121cc52abc3be86f49778b7d1bff074d999aa680056ed3c"
 metafile = true
 
 [[files]]
