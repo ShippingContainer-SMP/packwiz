@@ -65,10 +65,6 @@ file = "config/yosbr/config/entityculling.json"
 hash = "e4b8b16b713435ca783e59484de3f5543c25419b9f9e50909f9c13a87c595803"
 
 [[files]]
-file = "config/yosbr/config/exordium.json"
-hash = "03ca7dd3c8bb9b37cc5d1a467f31ee979b661cc72d0dbc8fc4894feed82ef345"
-
-[[files]]
 file = "config/yosbr/config/fallingtree.json"
 hash = "a7db8bc46f8e9ad453964012d2a47b26f1325413cf2fd781c11477ca4c418c05"
 
@@ -242,11 +238,6 @@ hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
 metafile = true
 
 [[files]]
-file = "mods/bettersleeping-revived.pw.toml"
-hash = "873aa44575c42ede9fae64070fcaab233ccca24c3cdc3501476d8d0070e9fff5"
-metafile = true
-
-[[files]]
 file = "mods/biome-technologies.pw.toml"
 hash = "42ab96fa67bf5c46b4d5fef39ca046b29411bd1b1e978201c5455d5bb9471b32"
 metafile = true
@@ -294,11 +285,6 @@ metafile = true
 [[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "d392e1c9178699fb36dfc237a05c0569b4afae40f69b49701b61fad817fc7558"
-metafile = true
-
-[[files]]
-file = "mods/building-wands.pw.toml"
-hash = "016ed1eeedf15ab9de3c1d5c7104b6f4113b8ce6eddf33b08ddfbb69190e6e69"
 metafile = true
 
 [[files]]
@@ -429,11 +415,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
-hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
 metafile = true
 
 [[files]]
@@ -687,11 +668,6 @@ hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "a2e4e7b3b072d44a518ac1313c88d6f3b17727d554f700d91c7b4eb3588de50c"
-metafile = true
-
-[[files]]
 file = "mods/numeral-ping.pw.toml"
 hash = "d66a3e2d8bd4e887e659460567a311f2a184a191be157804c757890f92d143d4"
 metafile = true
@@ -759,6 +735,11 @@ metafile = true
 [[files]]
 file = "mods/rainglow.pw.toml"
 hash = "4e8d1c0e827fb476123ca710fcdfcca5649e5ab141e4096d7a066f9b89d7d893"
+metafile = true
+
+[[files]]
+file = "mods/realisticsleepfabric.pw.toml"
+hash = "e8ab8a1202b40d9aadd00410fd298271a30b87a6b72d3934b33f8102c790bb83"
 metafile = true
 
 [[files]]
