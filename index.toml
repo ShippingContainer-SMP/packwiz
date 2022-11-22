@@ -217,11 +217,6 @@ hash = "b78e8bb615a4518a7862b14fead027210c6b213f20fd7d3fd65c42c08b90efe8"
 metafile = true
 
 [[files]]
-file = "mods/bedrockwaters.pw.toml"
-hash = "e143f0581d9a5079eef15faa984c73f8b242d7a54c0472b1ed461789eb91241b"
-metafile = true
-
-[[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
