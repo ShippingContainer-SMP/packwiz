@@ -69,6 +69,10 @@ file = "config/yosbr/config/exordium.json"
 hash = "03ca7dd3c8bb9b37cc5d1a467f31ee979b661cc72d0dbc8fc4894feed82ef345"
 
 [[files]]
+file = "config/yosbr/config/fallingtree.json"
+hash = "a7db8bc46f8e9ad453964012d2a47b26f1325413cf2fd781c11477ca4c418c05"
+
+[[files]]
 file = "config/yosbr/config/fastload.properties"
 hash = "c566785ac208e3016eb9c898e690e92e7686c235200e4152477e8182ddbca2d4"
 
@@ -102,7 +106,7 @@ hash = "0485d0b99a1b20be798af6bc322972603b6f5f558ab07da88c09ba45028dfb80"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e373cfe2ae546a6f7747f4743fafef96989d939f74c3689ca4767eea53c6a8a6"
+hash = "d89719212a99c2b80894040c385e3272803e74b71df80ee4d9d5975053c25529"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -460,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
 metafile = true
 
 [[files]]

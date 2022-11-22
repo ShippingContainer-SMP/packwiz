@@ -50,3 +50,4 @@ key_key.extraalchemy.potion_bag_mode:key.keyboard.unknown
 key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.unknown
 key_key.meowing.action:key.keyboard.comma
 key_key.togglePlaques:key.keyboard.period
+key_key.indrev.gamer_axe_toggle:key.keyboard.o
