@@ -109,6 +109,10 @@ file = "config/yosbr/servers.dat"
 hash = "44581e2b0feec95a3bd4d0b2be675011570d440983495f2d1c5d010d120af6f2"
 
 [[files]]
+file = "config/yosbr/world/datapacks/Treasure-Map-Replacement.zip"
+hash = "caacbfdb956b242437720a8416d6f44f8724a7edd6977445008f222c042d14c4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
@@ -435,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "a6b1eadf44a9d6a680cb803a01ae2b2ac37be89c1ce410f55b8d82e97baa4a27"
+hash = "7d38f85490d827ed507751145ff688ef45641ae2e7ac397998d6e7a772896b7c"
 metafile = true
 
 [[files]]
@@ -500,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "9c4b685f7373e41e8b0bb99a2f0aba645d46a63259c1d154e498cc14815f6f7f"
+hash = "d84438332ccb93ff4a240206f018de7e1c131771a886a593f3d4b0743cbbf77e"
 metafile = true
 
 [[files]]
@@ -846,6 +850,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "379fc2a0bb704376335fa0ab301c3ed606d6bbdd520fa2bca1aeb86763d42b76"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "26d8e1910d9054354b5e8c55c97167a76a0266fe73279aa302d35d1c9a0aaf9b"
 metafile = true
 
 [[files]]
