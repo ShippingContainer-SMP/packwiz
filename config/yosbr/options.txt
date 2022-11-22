@@ -52,3 +52,4 @@ key_key.meowing.action:key.keyboard.comma
 key_key.togglePlaques:key.keyboard.period
 key_key.indrev.gamer_axe_toggle:key.keyboard.o
 key_key.emotecraft.fastchoose:key.keyboard.h
+gamma:1.0
