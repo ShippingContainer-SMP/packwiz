@@ -77,6 +77,10 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
+file = "config/yosbr/config/invmove.json"
+hash = "f518523bfa1aa00e498c7bc6ec4a6cc3f7af58af5a611cfe4bc46522a0dd79a3"
+
+[[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
 hash = "cf7c3b60dc1615f94a0c292242bef1b0c1953b495438ea1c9f5895a7169743fd"
 
@@ -235,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/betternether.pw.toml"
 hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
+metafile = true
+
+[[files]]
+file = "mods/bettersleeping-revived.pw.toml"
+hash = "873aa44575c42ede9fae64070fcaab233ccca24c3cdc3501476d8d0070e9fff5"
 metafile = true
 
 [[files]]
@@ -735,11 +744,6 @@ metafile = true
 [[files]]
 file = "mods/rainglow.pw.toml"
 hash = "4e8d1c0e827fb476123ca710fcdfcca5649e5ab141e4096d7a066f9b89d7d893"
-metafile = true
-
-[[files]]
-file = "mods/realisticsleepfabric.pw.toml"
-hash = "e8ab8a1202b40d9aadd00410fd298271a30b87a6b72d3934b33f8102c790bb83"
 metafile = true
 
 [[files]]
