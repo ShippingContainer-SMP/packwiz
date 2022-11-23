@@ -117,6 +117,10 @@ file = "config/yosbr/world/datapacks/Treasure-Map-Replacement.zip"
 hash = "caacbfdb956b242437720a8416d6f44f8724a7edd6977445008f222c042d14c4"
 
 [[files]]
+file = "fix.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
