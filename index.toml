@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
+hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/capybara-fabric.pw.toml"
-hash = "b2bbe1803807a344d121cc52abc3be86f49778b7d1bff074d999aa680056ed3c"
+hash = "66da0fec8e8aef0a2937aed297cf37a7f66d59254064d11984cc60f98a343c39"
 metafile = true
 
 [[files]]
@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
+hash = "e688ae8ac3d9031a206850b33875db66e451d87085c28053dfc2cafdd0d9052d"
 metafile = true
 
 [[files]]
@@ -463,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "69a1b873db6d2dc35048481fc9e2b563ec6508276edfbda220a80301d665acce"
+hash = "d0835439ed4f894b919fbc595a8a28cc61aee802ff873d1c6bc6b883b9666a12"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "215fb8df4474c3893d7ef048065ec87aa02b9e956ce2b8b6f0306ad8943da8b1"
+hash = "4d7ecd93d92bab7af57de8b71aa52676dc93df2b92991702af582b026f256448"
 metafile = true
 
 [[files]]
@@ -688,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "507bc64b94ff03432f5e061318fe9d6765d6fd66b3075e91d209e023f08f60f7"
+hash = "cf864900e82329abb22fa518ec66b6970c5cdd2765b2631276479a0d11e88258"
 metafile = true
 
 [[files]]
