@@ -5,7 +5,7 @@
     "allowedLeaves": [],
     "allowedNonDecayLeaves": [],
     "deniedLeaves": [],
-    "breakMode": "SHIFT_DOWN",
+    "breakMode": "INSTANTANEOUS",
     "detectionMode": "WHOLE_TREE",
     "maxScanSize": 500,
     "maxSize": 100,
@@ -31,7 +31,8 @@
     "ignoreTools": false,
     "damageMultiplicand": 1.0,
     "damageRounding": "ROUND_DOWN",
-    "speedMultiplicand": 0.0
+    "speedMultiplicand": 0.0,
+    "forceToolUsage": false
   },
   "player": {
     "allowedTags": []
@@ -41,7 +42,7 @@
     "registerSpecificEnchant": false,
     "hideEnchant": false
   },
-  "sneakMode": "SNEAK_DISABLE",
+  "sneakMode": "SNEAK_ENABLE",
   "breakInCreative": false,
   "lootInCreative": true,
   "notificationMode": "ACTION_BAR"
