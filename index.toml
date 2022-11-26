@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-chroma-for-fabric.pw.toml"
-hash = "480e552d3c3cd0447dec16d9e6f5f0d2ecf78f2612252ea8afa5a73929cd619b"
+hash = "d7b730ba9af222aae704a34891f41497d72620ab75da092714fc4f186d230bcf"
 metafile = true
 
 [[files]]
@@ -472,8 +472,13 @@ hash = "83cdaa833826cfdf0cfd0b41637899d534da478ce9545c704f1bb298336a69cb"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "69a1b873db6d2dc35048481fc9e2b563ec6508276edfbda220a80301d665acce"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
@@ -643,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "10fc6be2bf781d31bc05f8818a3515fbd29d388ba32f13e9cc163add16016a26"
+hash = "f46c3653350886c083d776e6d529c6e97a6b8aaf7f297a89f8d226917fb08c39"
 metafile = true
 
 [[files]]
