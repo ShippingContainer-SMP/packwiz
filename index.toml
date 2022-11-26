@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "cb26574a1fa20ea279b722a7dab37ee96e8946f693242b2d4096c145f80802b6"
+hash = "ab11c99ace12ad9fb23421b896274cb3b3aa0d8e34f8692bd75b00d06e69f9e2"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "e3745fe039940bde438767cf84d1d313bec5d806415b185ac4386c368190a6f9"
+hash = "f53f6e9fd20d04b26e04ad91b9cd541146d0691d4b463949c8192a9a706cce97"
 metafile = true
 
 [[files]]
@@ -304,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
+file = "mods/cha-s.pw.toml"
+hash = "c44acf6ebe150d05fc01f1418f163da0c0c2081a1c61eee466e0c6c4f42ff824"
 metafile = true
 
 [[files]]
@@ -592,8 +597,13 @@ hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
 
 [[files]]
+file = "mods/mavapi.pw.toml"
+hash = "bfd9ad066f951b9292c7cfc71eb052418640134c7d54a6289b01c9b61443da82"
+metafile = true
+
+[[files]]
 file = "mods/mavm.pw.toml"
-hash = "aba200ac8818fe5ce59c1cb342dcd530b81e3ea85ce2e9f9c1d3a8863b8b1be7"
+hash = "1666b7be35ee758e442f14c9f2eb21253b68447c89a1b6efe473c29c43884a47"
 metafile = true
 
 [[files]]
