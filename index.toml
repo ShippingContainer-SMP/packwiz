@@ -437,6 +437,11 @@ hash = "7d38f85490d827ed507751145ff688ef45641ae2e7ac397998d6e7a772896b7c"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "8d8c5a1095b1176dd838b0352d8931edfe9d76b7fc77e9d18a6af07422428a55"
+metafile = true
+
+[[files]]
 file = "mods/extraalchemy.pw.toml"
 hash = "5031d54b22478641c4f70b444ce533e342c81d86e08df6c8072a032235a817f0"
 metafile = true
