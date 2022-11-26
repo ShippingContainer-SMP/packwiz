@@ -237,11 +237,6 @@ hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
 metafile = true
 
 [[files]]
-file = "mods/bettersleeping-revived.pw.toml"
-hash = "873aa44575c42ede9fae64070fcaab233ccca24c3cdc3501476d8d0070e9fff5"
-metafile = true
-
-[[files]]
 file = "mods/biome-technologies.pw.toml"
 hash = "42ab96fa67bf5c46b4d5fef39ca046b29411bd1b1e978201c5455d5bb9471b32"
 metafile = true
