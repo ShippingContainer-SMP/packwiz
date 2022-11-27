@@ -113,6 +113,18 @@ file = "config/yosbr/servers.dat"
 hash = "44581e2b0feec95a3bd4d0b2be675011570d440983495f2d1c5d010d120af6f2"
 
 [[files]]
+file = "config/yosbr/world/datapacks/Crafting/data/minecraft/recipes/crafting_shaped.json"
+hash = "b410076b31350497a9b322f2ad2b61528fb7ea1a589dad59b35ec36c104c4cd5"
+
+[[files]]
+file = "config/yosbr/world/datapacks/Crafting/data/minecraft/recipes/crafting_shapeless.json"
+hash = "087ea56473dc5f9fc1aa7054f79f198cf6ae8ff91db61176523021bd265dfc1c"
+
+[[files]]
+file = "config/yosbr/world/datapacks/Crafting/pack.mcmeta"
+hash = "9e3f5d9b54393c0fa26a8244db30d8d8e82d0c944a0ebcb1f218ad6668cc2434"
+
+[[files]]
 file = "config/yosbr/world/datapacks/Treasure-Map-Replacement.zip"
 hash = "caacbfdb956b242437720a8416d6f44f8724a7edd6977445008f222c042d14c4"
 
@@ -284,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "d392e1c9178699fb36dfc237a05c0569b4afae40f69b49701b61fad817fc7558"
+metafile = true
+
+[[files]]
+file = "mods/bottle-your-xp.pw.toml"
+hash = "bac27de108006fefe899a18578b805ce04b933ccfe7388f725ac732fbd9bc16d"
 metafile = true
 
 [[files]]
