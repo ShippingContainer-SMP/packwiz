@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":[
+      {
+        "item":"modern_industrialization:raw_uranium"
+      }
+    ],
+    "result": {
+        "item": "powah:uraninite_raw",
+        "count": 1
+    }
+}

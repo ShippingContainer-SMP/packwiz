@@ -113,12 +113,16 @@ file = "config/yosbr/servers.dat"
 hash = "44581e2b0feec95a3bd4d0b2be675011570d440983495f2d1c5d010d120af6f2"
 
 [[files]]
-file = "config/yosbr/world/datapacks/Crafting/data/minecraft/recipes/crafting_shaped.json"
-hash = "b410076b31350497a9b322f2ad2b61528fb7ea1a589dad59b35ec36c104c4cd5"
+file = "config/yosbr/world/datapacks/Crafting/data/minecraft/recipes/createcoppertomicopper.json"
+hash = "d4bbe2138f87a84fee7e5ac4fe50b4e807d6230aa6b120411a6fba1a776e4d11"
 
 [[files]]
-file = "config/yosbr/world/datapacks/Crafting/data/minecraft/recipes/crafting_shapeless.json"
-hash = "087ea56473dc5f9fc1aa7054f79f198cf6ae8ff91db61176523021bd265dfc1c"
+file = "config/yosbr/world/datapacks/Crafting/data/minecraft/recipes/mi-powah-URAN.json"
+hash = "cf44c479a0fb412838c15c9aec57162598a3e3bed12227bfbe9a6d0902ad92f9"
+
+[[files]]
+file = "config/yosbr/world/datapacks/Crafting/data/minecraft/recipes/powah-mi-URAN.json"
+hash = "b2407790702dcef35d81fd994167c3449df1c6bf44787bdf3b95786d1d4b9fc5"
 
 [[files]]
 file = "config/yosbr/world/datapacks/Crafting/pack.mcmeta"
