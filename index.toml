@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/flat-world.pw.toml"
-hash = "3006e7a59803f39c5ad5ee0a046810237130b04c5d0adf8bfc9e6c5e8cdeb80f"
+hash = "fd02b6a47477b240f7b4b1e53f82617fb66b09054fc0da18eb3be2e0c03642db"
 metafile = true
 
 [[files]]
@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
+hash = "b27773505b8fcfb4dd88dbc5b3cea9c5dfb3d9fac0cb4d91f4b8ccbde7a275ad"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "cf864900e82329abb22fa518ec66b6970c5cdd2765b2631276479a0d11e88258"
+hash = "853b51a21cf6c4824794dbb381f8951a1c627898ded2758eec144dc0422880eb"
 metafile = true
 
 [[files]]
@@ -769,7 +769,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d34e602a503bc217e9e88ee9fb5389df14df0fd0fac247ff86d54df5c5176d76"
+hash = "69bf1ea45cd45cabbf4c2bf8d0a2b383b21faef7d31ef49fa315d392c85d612e"
 metafile = true
 
 [[files]]
@@ -784,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "29d1cea9913dd854ba5b411fc632290f1b07cd1178b0309aee487fc2c8aa4e36"
+hash = "689cd721deb33671713fb9782c3e132eef73a6b1d553cf85070ce91b72c5d95f"
 metafile = true
 
 [[files]]
