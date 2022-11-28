@@ -58,7 +58,7 @@ hash = "1cba40748219add171324904e2c4f19020ad6a03ecb3d24d45212e9f14475f6c"
 
 [[files]]
 file = "config/yosbr/config/dynview.json"
-hash = "9c28783b2456da472a5ccfbce40b340e7d5a4dd10eb89f81c19a55fdae705e90"
+hash = "303f58bd4da2571c54f88b4ffedd4e3ec67007bd9dc8f7a243eded3b3efc7cb5"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -795,6 +795,11 @@ metafile = true
 [[files]]
 file = "mods/simple-backpack-fabric.pw.toml"
 hash = "9e0cfc6e9bf341be13f220cba649a3420597025aebae9af7e12fa8c452ace24d"
+metafile = true
+
+[[files]]
+file = "mods/simple-chunkloader-fabric.pw.toml"
+hash = "6ab8a916f100c5ba873d0c66bfb303fb7c031bc67d1a717059d44edebdc09493"
 metafile = true
 
 [[files]]
