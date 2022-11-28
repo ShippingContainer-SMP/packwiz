@@ -45,10 +45,6 @@ file = "config/yosbr/config/bclib/server.json"
 hash = "6b25d6ffb43ee1f8b7ec091431380ff2289f3ce794bdb7a5058d5e5cb34aa58f"
 
 [[files]]
-file = "config/yosbr/config/c2me.toml"
-hash = "22311db995c97f36df94e708a3d1b916f3a066c00172e579c7fa2ddc92a5fe89"
-
-[[files]]
 file = "config/yosbr/config/debugify.json"
 hash = "9632d59b9ed224cce48f7d521dcf43a82ec7108cd54c04132be78cc9e450178b"
 
