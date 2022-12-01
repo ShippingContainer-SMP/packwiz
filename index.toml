@@ -98,7 +98,7 @@ hash = "221fa0bac8b9d2e9324fb44deee0875e0a9a857365df0d088d01facdd3524741"
 
 [[files]]
 file = "config/yosbr/config/tpshud_v2.json"
-hash = "5e5daf97222bd978ee107492a2ca3de2762bf810ff64127fa0d3406db4c2a673"
+hash = "693160f1e24f696f0bf34f5bd4dad2a0fd537af66d653c4b589742170140a483"
 
 [[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
