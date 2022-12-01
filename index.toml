@@ -859,11 +859,6 @@ hash = "fd461ae9dcaabd7cf23b5325753b002b9f7fd27dec1970585e59a3451d24acd9"
 metafile = true
 
 [[files]]
-file = "mods/tabtps.pw.toml"
-hash = "689bf94d0ad4ba52a7cfab340152abbf1bdc14151c22fc882b9f1cded48e0048"
-metafile = true
-
-[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "199bf931e17458fa299e16fc5f761241dde9ff1f9e62fe33e52acdcc1fcc2aa0"
 metafile = true
