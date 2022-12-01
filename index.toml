@@ -97,6 +97,10 @@ file = "config/yosbr/config/textile_backup.json5"
 hash = "221fa0bac8b9d2e9324fb44deee0875e0a9a857365df0d088d01facdd3524741"
 
 [[files]]
+file = "config/yosbr/config/tpshud_v2.json"
+hash = "5e5daf97222bd978ee107492a2ca3de2762bf810ff64127fa0d3406db4c2a673"
+
+[[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
@@ -341,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
 hash = "127951df726d724de421e631b03cc8853da6f1d750968c97a38ba5bc33ff26f1"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "4f69aaaafb229e3063f529b5402a8c74fe44bd01fd276022773b983f84a3d719"
 metafile = true
 
 [[files]]
@@ -881,6 +890,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "26d8e1910d9054354b5e8c55c97167a76a0266fe73279aa302d35d1c9a0aaf9b"
+metafile = true
+
+[[files]]
+file = "mods/tps-hud.pw.toml"
+hash = "44f6e75e5446f821d1c48e64f8e7a88760e2fcd57a272a3e04239bf271142e3e"
 metafile = true
 
 [[files]]
