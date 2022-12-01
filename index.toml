@@ -865,6 +865,11 @@ hash = "199bf931e17458fa299e16fc5f761241dde9ff1f9e62fe33e52acdcc1fcc2aa0"
 metafile = true
 
 [[files]]
+file = "mods/textile-backup.pw.toml"
+hash = "4e613a19ef53794b5e98e74a4f1a437c5c9d07888eb8bc503774a6e56230a6cd"
+metafile = true
+
+[[files]]
 file = "mods/timestamp-chat.pw.toml"
 hash = "5a2d646c2cfb2609ffb707226eeea8811f1318572794a3b0980fe13f3aede398"
 metafile = true
