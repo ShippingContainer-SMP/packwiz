@@ -308,6 +308,11 @@ hash = "bac27de108006fefe899a18578b805ce04b933ccfe7388f725ac732fbd9bc16d"
 metafile = true
 
 [[files]]
+file = "mods/brrp.pw.toml"
+hash = "48932bf918d98343e927754f0f9f25c1cb41f216a33ff060926a4ebe32ee5b87"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
 metafile = true
@@ -655,6 +660,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "a9b35dd577c0475e57176eaa615af6c1d4998abca0d8252cc5080f40bac6e957"
+metafile = true
+
+[[files]]
+file = "mods/mishang-urban-construction.pw.toml"
+hash = "758a0cc82480e9d7637b2690314bc06778bd628babe728a552ed9a5cc99ce417"
 metafile = true
 
 [[files]]
