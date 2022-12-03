@@ -348,11 +348,6 @@ hash = "127951df726d724de421e631b03cc8853da6f1d750968c97a38ba5bc33ff26f1"
 metafile = true
 
 [[files]]
-file = "mods/construction-wand.pw.toml"
-hash = "4f69aaaafb229e3063f529b5402a8c74fe44bd01fd276022773b983f84a3d719"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
 metafile = true
@@ -454,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "e00cf45a79f4d28d28f4b708c3aab97749fd710ef858c910e2c4b89ebbe98860"
+hash = "006aa9406003e97dde4527264bf1de799fc03da166b3c2298befabca10c0e950"
 metafile = true
 
 [[files]]
@@ -559,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c288cf990690ddd6d3aa44373c7d7293a84cadd0c3249204df22a1b257e417e3"
+hash = "9fe61a63d246792443a5152a6670c6af6b91b28abcebce658120eba14a58578a"
 metafile = true
 
 [[files]]
@@ -569,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "836424ea5f6d4c3f08c33fc4e1e2436f5d9b3c91bde702e1a64bd5fdb0d26882"
+hash = "d32d7a9afbef72e2f174705e8389f2adb570578bbdb48bf89146d8022ee25471"
 metafile = true
 
 [[files]]
@@ -629,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/mavapi.pw.toml"
-hash = "bfd9ad066f951b9292c7cfc71eb052418640134c7d54a6289b01c9b61443da82"
+hash = "a6c66745ff4e44c84d89d2bffe88413d0209252392ee9f7776aba3c30e8b9de9"
 metafile = true
 
 [[files]]
@@ -929,12 +924,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "033249ec4b307d48fa1ce8ae2ea39d13355cd94580a90b9dc422de2890a7b179"
+hash = "9f358b50737609e61b3fa7eeeb2d59294dd42b9c5977a86aabaca00ed5af1e6d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a357191187a74983c7bd9e8f5cc7efddb15929031b989858a1182265f4e6be0f"
+hash = "21d4fa50f7fc8c1be39e6575941c1ff50cc9e9c64cd0c594b52c713c81c4d579"
 metafile = true
 
 [[files]]
