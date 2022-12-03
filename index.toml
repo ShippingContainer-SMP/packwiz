@@ -238,6 +238,11 @@ hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
 
 [[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "4ad024919416e794f43e70ef503acadd3232049f0d8f9b832710894c42e87fd8"
+metafile = true
+
+[[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "5a32457d03397962ca0ac645236f9e212c01a9589768857f85f49d5427ed8ce1"
 metafile = true
@@ -305,11 +310,6 @@ metafile = true
 [[files]]
 file = "mods/bottle-your-xp.pw.toml"
 hash = "bac27de108006fefe899a18578b805ce04b933ccfe7388f725ac732fbd9bc16d"
-metafile = true
-
-[[files]]
-file = "mods/brrp.pw.toml"
-hash = "48932bf918d98343e927754f0f9f25c1cb41f216a33ff060926a4ebe32ee5b87"
 metafile = true
 
 [[files]]
@@ -388,6 +388,11 @@ hash = "7c319e5948529ed86793dbd517f9445ffd27547a60e8d97d63e8234e736e72e7"
 metafile = true
 
 [[files]]
+file = "mods/duckling.pw.toml"
+hash = "5d1bc03ab200de1c0095b2eb8be4354f6860e1ace61abac4d8e53b29fc4c044d"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -460,6 +465,11 @@ metafile = true
 [[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "8d8c5a1095b1176dd838b0352d8931edfe9d76b7fc77e9d18a6af07422428a55"
+metafile = true
+
+[[files]]
+file = "mods/extra-sponges.pw.toml"
+hash = "9b29ae2be6c1791cf179411668c7d98975d55d8201c70723bb193666974fea3e"
 metafile = true
 
 [[files]]
@@ -663,8 +673,8 @@ hash = "a9b35dd577c0475e57176eaa615af6c1d4998abca0d8252cc5080f40bac6e957"
 metafile = true
 
 [[files]]
-file = "mods/mishang-urban-construction.pw.toml"
-hash = "758a0cc82480e9d7637b2690314bc06778bd628babe728a552ed9a5cc99ce417"
+file = "mods/mob-catcher-fabric.pw.toml"
+hash = "d2a8d68f234166b11d5f82bbcecfcc7ba094e150f488fe9c5af737c55fae685c"
 metafile = true
 
 [[files]]
@@ -725,6 +735,11 @@ metafile = true
 [[files]]
 file = "mods/openblocks-elevator-fabric.pw.toml"
 hash = "b213a6cb053749ac347418bc7c7bd297243bfad6a6133c839c12719ce5cc19a0"
+metafile = true
+
+[[files]]
+file = "mods/overpowered-pickles-fabric.pw.toml"
+hash = "f21e813218dbc1d22d08dcc41644918a0828e9d839ea9e675b9a19dbb20a32f4"
 metafile = true
 
 [[files]]
