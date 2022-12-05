@@ -1,13 +1,13 @@
 name = "Staff of Traveling"
-filename = "staff-of-traveling-fabric-1.19-1.2.12.jar"
+filename = "staff-of-traveling-fabric-1.19-1.1.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GRsgVfSq/versions/CnBax1Qu/staff-of-traveling-fabric-1.19-1.2.12.jar"
+url = "https://cdn.modrinth.com/data/GRsgVfSq/versions/OHpifLX7/staff-of-traveling-fabric-1.19-1.1.11.jar"
 hash-format = "sha1"
-hash = "b6a7fd21a5ad0ae32c795839d471ffe643fd07aa"
+hash = "c950f1bcda76b8cc9292b34b46d96e7766d457ff"
 
 [update]
 [update.modrinth]
 mod-id = "GRsgVfSq"
-version = "CnBax1Qu"
+version = "OHpifLX7"

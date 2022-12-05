@@ -499,12 +499,12 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
-hash = "d7b51db6f69be6f6ea175d7004980cc764abfd58161124a5bf064e4c26b839a5"
+hash = "571c28f3e4ecb7cc99834df642e9a09f1307a8eb5ef76e5f97c332334c96bd9e"
 metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "a5c59c3e730a90d86c9fcc59a36eeed58235826cd6630d208dd1422b3d4f0727"
+hash = "69a1b873db6d2dc35048481fc9e2b563ec6508276edfbda220a80301d665acce"
 metafile = true
 
 [[files]]
@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "9e8a649a813bc07feae1ef2776e7a4d40259a301653beb78c17633852364ea3a"
+hash = "d84438332ccb93ff4a240206f018de7e1c131771a886a593f3d4b0743cbbf77e"
 metafile = true
 
 [[files]]
@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-catcher-fabric.pw.toml"
-hash = "31969772448fa6983ba67f50659734e5970102d3da988af557270fbe02d5ac8d"
+hash = "d2a8d68f234166b11d5f82bbcecfcc7ba094e150f488fe9c5af737c55fae685c"
 metafile = true
 
 [[files]]
@@ -869,7 +869,7 @@ metafile = true
 
 [[files]]
 file = "mods/staff-of-traveling.pw.toml"
-hash = "e55f8e41da030e4932b2d2c51350a2e8d25b4114e08a7b0d449811f042d55564"
+hash = "da3c0b4911fe9b4771116462d62ae8382ac570992849d06087639081370894a9"
 metafile = true
 
 [[files]]
