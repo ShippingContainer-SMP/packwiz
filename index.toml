@@ -813,11 +813,6 @@ hash = "b80d2c3e7f014940b9eb8c1db7f854d5d361f1a3b6b36ce5e6496c9b8d1b11fb"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
-metafile = true
-
-[[files]]
 file = "mods/shetiphiancore-fabric.pw.toml"
 hash = "7ed8ccc2ab1e984da37776df01c1d03be14fc6479e53c061ae2aaa1ad78c830e"
 metafile = true
