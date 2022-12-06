@@ -1,7 +1,7 @@
 {
   "servers": {
     "103.193.138.14": {
-      "distance": 16,
+      "distance": 24,
       "priorityDistance": 48
     }
   },

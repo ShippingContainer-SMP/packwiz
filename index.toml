@@ -14,7 +14,7 @@ hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
 
 [[files]]
 file = "config/yosbr/config/PlasmoVoice/config.json"
-hash = "f29f615f21b5fe750a996d747fa43c6d08285a00b05fc40563a6f5d38bc9eea8"
+hash = "5963eb4709122fa1155970658363531c6f8685bf7794c0496cb737cf939a4e1b"
 
 [[files]]
 file = "config/yosbr/config/PlasmoVoice/server.yml"
@@ -31,10 +31,6 @@ hash = "b1127e542115934bf56770eede77a3a79333fe861ba078190f9f3e8a6718b9f0"
 [[files]]
 file = "config/yosbr/config/TabTPS/themes/default.conf"
 hash = "be849ebc154c84986260430f6c52ba9c61aad140756b589d07169c2e3e80447e"
-
-[[files]]
-file = "config/yosbr/config/auto-crouch.json5"
-hash = "05fcd06d9990a20cd94db5dcb4ca1edc7c76bfb0b00438471dba3a8c6e6146b3"
 
 [[files]]
 file = "config/yosbr/config/bclib/client.json"
@@ -71,10 +67,6 @@ hash = "c566785ac208e3016eb9c898e690e92e7686c235200e4152477e8182ddbca2d4"
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
-
-[[files]]
-file = "config/yosbr/config/invmove.json"
-hash = "f518523bfa1aa00e498c7bc6ec4a6cc3f7af58af5a611cfe4bc46522a0dd79a3"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
@@ -190,11 +182,6 @@ metafile = true
 [[files]]
 file = "mods/armor-chroma-for-fabric.pw.toml"
 hash = "d7b730ba9af222aae704a34891f41497d72620ab75da092714fc4f186d230bcf"
-metafile = true
-
-[[files]]
-file = "mods/auto-crouch.pw.toml"
-hash = "84a6021079b44ee56b390d4e02941c33f5950a5ef32b5d8c71a54f3c1a3d7129"
 metafile = true
 
 [[files]]
@@ -398,11 +385,6 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view-fabric.pw.toml"
-hash = "3580c51958e6fd25cd247d1b3405e497faac54d47fe1a1d2d951e7c17c47c0d9"
-metafile = true
-
-[[files]]
 file = "mods/easiervillagertrading.pw.toml"
 hash = "06614c130009ac62167aa8e192875f8677570d24c0937f37f24265b3dd23fb80"
 metafile = true
@@ -590,11 +572,6 @@ metafile = true
 [[files]]
 file = "mods/industrial-revolution.pw.toml"
 hash = "fb7a3cd21ae04e61e5166622dbad8b0f5f85510ff7d2f09f12d5264a0539065d"
-metafile = true
-
-[[files]]
-file = "mods/invmove.pw.toml"
-hash = "2f028c67b37fc7c906bcd8983e775c588b49d03a05953acc9a38e37cb275ea96"
 metafile = true
 
 [[files]]
