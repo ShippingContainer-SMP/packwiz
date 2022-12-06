@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ccafa1559f7296be0743d0971e5c81042a35d71e89c99df0c4ed1ee371f1664a"
+hash = "79953d7df91b0d2605c1c897019f7ddc072c55735441a3cce93800c73bf2e0f6"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "d392e1c9178699fb36dfc237a05c0569b4afae40f69b49701b61fad817fc7558"
+hash = "874140b2e3f63213660e41369e985e6f6f91957e18eefcea7814766d2b440bb1"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "69a1b873db6d2dc35048481fc9e2b563ec6508276edfbda220a80301d665acce"
+hash = "a5c59c3e730a90d86c9fcc59a36eeed58235826cd6630d208dd1422b3d4f0727"
 metafile = true
 
 [[files]]
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "d84438332ccb93ff4a240206f018de7e1c131771a886a593f3d4b0743cbbf77e"
+hash = "9e8a649a813bc07feae1ef2776e7a4d40259a301653beb78c17633852364ea3a"
 metafile = true
 
 [[files]]
@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "d32d7a9afbef72e2f174705e8389f2adb570578bbdb48bf89146d8022ee25471"
+hash = "b14408b1ae9790382e0bb2e44489fd6c521ebe7e8b9f7d995d8902f86e244130"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-catcher-fabric.pw.toml"
-hash = "d2a8d68f234166b11d5f82bbcecfcc7ba094e150f488fe9c5af737c55fae685c"
+hash = "31969772448fa6983ba67f50659734e5970102d3da988af557270fbe02d5ac8d"
 metafile = true
 
 [[files]]
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/staff-of-traveling.pw.toml"
-hash = "da3c0b4911fe9b4771116462d62ae8382ac570992849d06087639081370894a9"
+hash = "e55f8e41da030e4932b2d2c51350a2e8d25b4114e08a7b0d449811f042d55564"
 metafile = true
 
 [[files]]
