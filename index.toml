@@ -300,6 +300,11 @@ hash = "bac27de108006fefe899a18578b805ce04b933ccfe7388f725ac732fbd9bc16d"
 metafile = true
 
 [[files]]
+file = "mods/builderwands.pw.toml"
+hash = "72b573927baeb87fffc9228cc7b22678f4d41d71b6e1d76f27e936192c1f3896"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
 metafile = true
@@ -310,6 +315,11 @@ hash = "66da0fec8e8aef0a2937aed297cf37a7f66d59254064d11984cc60f98a343c39"
 metafile = true
 
 [[files]]
+file = "mods/carpeted-stairs.pw.toml"
+hash = "8bf241dc64658188d9dce38f13308c63310a492a5028a4e84bb8581a4c02d039"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
@@ -317,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/cha-s.pw.toml"
 hash = "c44acf6ebe150d05fc01f1418f163da0c0c2081a1c61eee466e0c6c4f42ff824"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "333bed434bc158e2f26274fd49c6f60a028ff8478098c2bd76f1be40127195fe"
 metafile = true
 
 [[files]]
@@ -787,6 +802,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "b80d2c3e7f014940b9eb8c1db7f854d5d361f1a3b6b36ce5e6496c9b8d1b11fb"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "82be5ef759fddb09aae36dea77308cd59fc7319853cd5ef9ccecd95a3c2a2db2"
 metafile = true
 
 [[files]]

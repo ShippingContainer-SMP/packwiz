@@ -1,0 +1,13 @@
+name = "BuilderWands"
+filename = "builderwands-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cQ0r3u5T/versions/yyz3Yp4W/builderwands-1.0.0.jar"
+hash-format = "sha1"
+hash = "f752e3127e79dba1c94fe4fc177402a8cb54cfc5"
+
+[update]
+[update.modrinth]
+mod-id = "cQ0r3u5T"
+version = "yyz3Yp4W"
