@@ -41,6 +41,10 @@ file = "config/yosbr/config/bclib/server.json"
 hash = "6b25d6ffb43ee1f8b7ec091431380ff2289f3ce794bdb7a5058d5e5cb34aa58f"
 
 [[files]]
+file = "config/yosbr/config/customspawn.json"
+hash = "c67cd6fef0fe7474684a0c82e1a5d272cfc21666d52220f9ce1945ddc1bc8916"
+
+[[files]]
 file = "config/yosbr/config/debugify.json"
 hash = "9632d59b9ed224cce48f7d521dcf43a82ec7108cd54c04132be78cc9e450178b"
 
