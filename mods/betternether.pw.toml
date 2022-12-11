@@ -1,13 +1,13 @@
 name = "BetterNether"
-filename = "better-nether-7.1.2.jar"
+filename = "better-nether-8.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MpzVLzy5/versions/MaTuYgp1/better-nether-7.1.2.jar"
+url = "https://cdn.modrinth.com/data/MpzVLzy5/versions/GihEl5wC/better-nether-8.1.1.jar"
 hash-format = "sha1"
-hash = "0f0dc5b48a578c531506d8c3b6a212de71461029"
+hash = "7235d8ca2fc3454b7f7e96debb20c47ad69be668"
 
 [update]
 [update.modrinth]
 mod-id = "MpzVLzy5"
-version = "MaTuYgp1"
+version = "GihEl5wC"

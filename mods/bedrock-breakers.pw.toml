@@ -1,13 +1,13 @@
 name = "Bedrock Breakers [Fabric/Quilt]"
-filename = "bedrockbreakers-1.0.1.jar"
+filename = "bedrockbreakers-1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b9825c1df1d76ea6cc6b57989c39094f5c8be20d"
+hash = "cfbff105d5e1107f89e73703df9df63a49a2aa6f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3934142
+file-id = 4143463
 project-id = 659194

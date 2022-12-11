@@ -1,13 +1,13 @@
 name = "tps-hud"
-filename = "tps-hud-1.6.0+1.19.2.jar"
+filename = "tps-hud-1.6.1+1.19.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2UeET9aA/versions/TiRmdpuo/tps-hud-1.6.0%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/2UeET9aA/versions/VvAdq0SO/tps-hud-1.6.1%2B1.19.3.jar"
 hash-format = "sha1"
-hash = "334b3cef84fbce06ef2b0582e8f5dd19eb8bc399"
+hash = "0e769583cda221261883744a0c2a10c1ab54c9d2"
 
 [update]
 [update.modrinth]
 mod-id = "2UeET9aA"
-version = "TiRmdpuo"
+version = "VvAdq0SO"

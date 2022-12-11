@@ -1,13 +1,13 @@
 name = "Followers Teleport Too"
-filename = "followersteleporttoo-fabric_1.19.2-1.2.jar"
+filename = "followersteleporttoo-fabric_1.19.3-1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E5YVNsbH/versions/on2RLYoF/followersteleporttoo-fabric_1.19.2-1.2.jar"
+url = "https://cdn.modrinth.com/data/E5YVNsbH/versions/AwutReNC/followersteleporttoo-fabric_1.19.3-1.3.jar"
 hash-format = "sha1"
-hash = "e127a2b7769431bac01233e9e841712026b4f1f4"
+hash = "264372b0c552bcfc3d166e02122761d3fd2938d7"
 
 [update]
 [update.modrinth]
 mod-id = "E5YVNsbH"
-version = "on2RLYoF"
+version = "AwutReNC"

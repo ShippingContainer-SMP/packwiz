@@ -1,13 +1,13 @@
 name = "Bottle Your Xp"
-filename = "bottleyourxp-fabric_1.19.2-2.2.jar"
+filename = "bottleyourxp-fabric_1.19.3-2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bG2afBot/versions/KTdClEcu/bottleyourxp-fabric_1.19.2-2.2.jar"
+url = "https://cdn.modrinth.com/data/bG2afBot/versions/nNPEWspe/bottleyourxp-fabric_1.19.3-2.3.jar"
 hash-format = "sha1"
-hash = "e26a4f4997cd9f20eba11b4c20a11f903d25153f"
+hash = "0549b5620e7b66cf3b7baecc08a721de5afa3a7b"
 
 [update]
 [update.modrinth]
 mod-id = "bG2afBot"
-version = "KTdClEcu"
+version = "nNPEWspe"

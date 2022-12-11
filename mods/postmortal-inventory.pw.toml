@@ -1,13 +1,13 @@
 name = "Postmortal Inventory"
-filename = "postmortal_inventory-0.1.0+1.19.jar"
+filename = "postmortal_inventory-0.2.0+1.19.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/VEewM7Jz/versions/pUVOBcgF/postmortal_inventory-0.1.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/VEewM7Jz/versions/5AAsCQLl/postmortal_inventory-0.2.0%2B1.19.jar"
 hash-format = "sha1"
-hash = "0615df1c4be96d308205662eddd2911018b3bb29"
+hash = "b52aebc3543ba1c1f8ebda20bc69184f0369af33"
 
 [update]
 [update.modrinth]
 mod-id = "VEewM7Jz"
-version = "pUVOBcgF"
+version = "5AAsCQLl"

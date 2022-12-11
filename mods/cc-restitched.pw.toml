@@ -1,13 +1,13 @@
 name = "CC: Restitched"
-filename = "cc-restitched-1.101.2.jar"
+filename = "cc-restitched-1.102.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eldBwa5V/versions/1.101.2%2B1.19.1/cc-restitched-1.101.2.jar"
+url = "https://cdn.modrinth.com/data/eldBwa5V/versions/XZ4nB6es/cc-restitched-1.102.0.jar"
 hash-format = "sha1"
-hash = "428b306c317e38d5829972f1944c873858b740da"
+hash = "363b2f837f71e626ddfba499d5098ab116080eea"
 
 [update]
 [update.modrinth]
 mod-id = "eldBwa5V"
-version = "3S6HU7nl"
+version = "XZ4nB6es"

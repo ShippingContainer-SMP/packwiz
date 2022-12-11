@@ -1,13 +1,13 @@
 name = "Overpowered Pickels [FABRIC]"
-filename = "OverpoweredPickles-Fabric-1.19.2-1.4.12.jar"
+filename = "OverpoweredPickles-Fabric-1.19.3-rc1-1.5.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3f6ea53203894d6dbff27eccbcaa0d9950609f09"
+hash = "01a8744df10a0a76d0989378b096463eb321f841"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4016943
+file-id = 4127811
 project-id = 376713

@@ -1,13 +1,13 @@
 name = "Geckolib"
-filename = "geckolib-quilt-1.19-3.1.38.jar"
+filename = "geckolib-quilt-1.19.3-4.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/g90LsOdt/geckolib-quilt-1.19-3.1.38.jar"
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/lTKMOGfM/geckolib-quilt-1.19.3-4.0.1.jar"
 hash-format = "sha1"
-hash = "1516bfeedaf4238e106b6756b8f97fcd82476792"
+hash = "731663fc8fd36f0ab93e55853e09952d1418f9d5"
 
 [update]
 [update.modrinth]
 mod-id = "8BmcQJ2H"
-version = "g90LsOdt"
+version = "lTKMOGfM"
