@@ -82,15 +82,15 @@ hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
 
 [[files]]
 file = "config/yosbr/config/sound_physics_remastered/occlusion.properties"
-hash = "bcd51cedcb60e21122313545ea158b52135c52fc815266ddc8ac58e09f3db64b"
+hash = "4f7c591cfa39c246a8ae9773f1d62c5d54c87fb18f5f467578f7395358f72608"
 
 [[files]]
 file = "config/yosbr/config/sound_physics_remastered/reflectivity.properties"
-hash = "19018c89f1405ca79521785ecff90188a6696f3c02017a1f27d621089258ae34"
+hash = "1693bc5b51c6f2cea1add4a6eea65fa9807093e746d80adc2d77e54130620e25"
 
 [[files]]
 file = "config/yosbr/config/sound_physics_remastered/soundphysics.properties"
-hash = "f7c0839bb16425bc253269a6d68c4aa870df50ce81d8de3799e0260f95efcd39"
+hash = "059e3a019864a98c39e79df2860099c6e2a6414338a1c2b8b43f0c7839057ef3"
 
 [[files]]
 file = "config/yosbr/config/textile_backup.json5"
