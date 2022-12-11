@@ -384,11 +384,6 @@ hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
-file = "mods/custom-spawns.pw.toml"
-hash = "e5a10a8df4e4eadd3c8dbb9593996a7adfd63ab98c6936c00cff130bf3f335ce"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
@@ -726,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
+metafile = true
+
+[[files]]
+file = "mods/norecipebook-fabric.pw.toml"
+hash = "3329afb49f3d9c3653fff23844485b752f079e2a6b94906d31b889006a07fbea"
 metafile = true
 
 [[files]]
