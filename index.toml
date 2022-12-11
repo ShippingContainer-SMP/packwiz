@@ -98,7 +98,7 @@ hash = "96d7cbd1ad5dd43e6982c791ec76433c819cdc490834822fbc96f9f9fe061e55"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-server.properties"
-hash = "a28ebe865bf45322aa990155bc0ceb2f5dcf605616046706da08a8eeb5872c8b"
+hash = "71b0f50258c2576efc3d5b72e2f20c4747947e6e5dfb91645d806f1eb7c189e6"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
