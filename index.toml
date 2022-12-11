@@ -751,6 +751,16 @@ hash = "5cdb03823da80cc246bf744cbd758cd6f2004c94f44063cd2a46ba769f648e01"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "50bd803afaf12d3406ad7bf1781e2f75bb38bbccb5d7720c32cf6f833a97eb15"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "bd3914c9be28eb7744b2a040ae5eb3e4164f5ed975780f27d0b40b3c1405132d"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator-fabric.pw.toml"
 hash = "b213a6cb053749ac347418bc7c7bd297243bfad6a6133c839c12719ce5cc19a0"
 metafile = true
