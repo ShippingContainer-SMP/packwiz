@@ -106,7 +106,7 @@ hash = "0485d0b99a1b20be798af6bc322972603b6f5f558ab07da88c09ba45028dfb80"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "062365eec3ce51eb1e07a57cd725096cfc4c9e6114867cf60af5112b01b7c99b"
+hash = "70346a92ab8249cf9f93104b1a43b5f0ace5d363bcf7fd946707ef62decd3147"
 
 [[files]]
 file = "config/yosbr/world/datapacks/Crafting/data/minecraft/recipes/createcoppertomicopper.json"
