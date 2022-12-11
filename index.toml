@@ -13,14 +13,6 @@ file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
 
 [[files]]
-file = "config/yosbr/config/PlasmoVoice/config.json"
-hash = "5963eb4709122fa1155970658363531c6f8685bf7794c0496cb737cf939a4e1b"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server.yml"
-hash = "5f5144d51822148513a43e1fc841d29b33cd7578905c3825be72a1840d753356"
-
-[[files]]
 file = "config/yosbr/config/TabTPS/display-configs/default.conf"
 hash = "38ccccf1ddb459531bd78475b104d7c6069b9de86a84471ed23fc7f382e1088b"
 
@@ -101,12 +93,20 @@ file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "96d7cbd1ad5dd43e6982c791ec76433c819cdc490834822fbc96f9f9fe061e55"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-server.properties"
+hash = "a28ebe865bf45322aa990155bc0ceb2f5dcf605616046706da08a8eeb5872c8b"
+
+[[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "0485d0b99a1b20be798af6bc322972603b6f5f558ab07da88c09ba45028dfb80"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5fdad8ab6f4d2a368de067ee3ad9cfeeba8795fe8ad2db6d2ea7054924f9934e"
+hash = "062365eec3ce51eb1e07a57cd725096cfc4c9e6114867cf60af5112b01b7c99b"
 
 [[files]]
 file = "config/yosbr/world/datapacks/Crafting/data/minecraft/recipes/createcoppertomicopper.json"
