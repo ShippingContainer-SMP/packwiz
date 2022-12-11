@@ -774,11 +774,6 @@ hash = "f344dd58b1d443a6f70a1c6183062d24fd815e5e82ca475efaeb51dc9d6437a0"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "814b7eba555ba7ae027ca4bb1cd2b2a9b153b95fca5d0246c6d7b791b489c937"
-metafile = true
-
-[[files]]
 file = "mods/postmortal-inventory.pw.toml"
 hash = "ce5a74f1ed40b278dd11b0a8e7ae46bf5d24dff6eb3ca8402114a36e22a3f234"
 metafile = true
@@ -854,6 +849,11 @@ hash = "e48b9bd2c6543cb91f83338cbe01647a3010b3a6a92c9065d65816bbbdee9a68"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "011f1952e0b2d1048d3d07626d30cbc1ff4a31e2e9a832367c82f6ff456de916"
+metafile = true
+
+[[files]]
 file = "mods/simplexp.pw.toml"
 hash = "3706bc6cd172a63ec43960df822dba4cb075a67d553b2bd66756bdd1e365da01"
 metafile = true
@@ -876,6 +876,11 @@ metafile = true
 [[files]]
 file = "mods/sort.pw.toml"
 hash = "3f2a20c52472fb65bc5ebcc37c45806ab059b56e9b4bc11889064c5b49f48def"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "53843b76c33ecf7910248cd1c941920adf23f81130a9155997d911199dce0816"
 metafile = true
 
 [[files]]
@@ -941,6 +946,11 @@ metafile = true
 [[files]]
 file = "mods/view-distance-fix.pw.toml"
 hash = "89b25533c6a11961a4640f4f3cd1c6dbf4678e101423c1dbb02c1a6386fdc707"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "4a63451ef8d020713651dd9d364772595b0124138511a1a39c9b8c8e72e3c0c0"
 metafile = true
 
 [[files]]
