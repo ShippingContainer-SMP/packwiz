@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "7c319e5948529ed86793dbd517f9445ffd27547a60e8d97d63e8234e736e72e7"
+hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
+hash = "4bf105fad2ec897770b89bbabb1c596cfb293e64dd1f51ece6d678814146ac45"
 metafile = true
 
 [[files]]
@@ -837,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1a75ab909f95a000853f8ae9c7ba4af0b0d7c65841abb29a8eb5970e823fd891"
+hash = "f0dd09a55774bd422c36534d9fd03d724da9ceb4d52ab07548177e62e138eddd"
 metafile = true
 
 [[files]]
@@ -872,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "011f1952e0b2d1048d3d07626d30cbc1ff4a31e2e9a832367c82f6ff456de916"
+hash = "cb70553bcdb6b6826e808c33c447f5663dcb60ce5aec435275e1677b97e546c2"
 metafile = true
 
 [[files]]
