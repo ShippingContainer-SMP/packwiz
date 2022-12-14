@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "6ddd6ea160aaf91f5b28d5c722546490dc55ae9b89aeb642521e1b016977fba5"
+hash = "b3f6ab1279c1d4f166ecedb854a8f44212be7795da22a439492308670614f0fa"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "1b3706e9e9c79ad136499976a2fd48a60a33f9820ccabdf9aeac76475255b259"
+hash = "d730fc095167a665e54d8ce5a636f766cdd3cda52ed62168d48ca9826f676343"
 metafile = true
 
 [[files]]
@@ -827,12 +827,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "b80d2c3e7f014940b9eb8c1db7f854d5d361f1a3b6b36ce5e6496c9b8d1b11fb"
+hash = "6340a88921b62b5e3f688fa0808817e8cb338a725b070df52405bc26e7e5b49f"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "f0dd09a55774bd422c36534d9fd03d724da9ceb4d52ab07548177e62e138eddd"
+hash = "3c1887a5e3c034669c0e180d61fcf3a7446b61c1f112dfd09347851d00a6dcae"
 metafile = true
 
 [[files]]
@@ -942,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "26d8e1910d9054354b5e8c55c97167a76a0266fe73279aa302d35d1c9a0aaf9b"
+hash = "f7fa1682ebb46d34efb8a4a5fca1dd52781016598a2d3b6aa9b4fca8ecc5daf2"
 metafile = true
 
 [[files]]
