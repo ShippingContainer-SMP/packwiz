@@ -236,6 +236,11 @@ hash = "b78e8bb615a4518a7862b14fead027210c6b213f20fd7d3fd65c42c08b90efe8"
 metafile = true
 
 [[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "026414a0dcab2f08018f569431081e5e5c245cdb3c74ee3aaaa466403b6a7be3"
+metafile = true
+
+[[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "5a32457d03397962ca0ac645236f9e212c01a9589768857f85f49d5427ed8ce1"
+metafile = true
+
+[[files]]
+file = "mods/better-taskbar.pw.toml"
+hash = "e769b823889187cf0d839f9645ea981e732bf644fa48ceab606488bac8016ad1"
 metafile = true
 
 [[files]]
@@ -346,6 +356,11 @@ hash = "c44acf6ebe150d05fc01f1418f163da0c0c2081a1c61eee466e0c6c4f42ff824"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "8440097630bb5576edaf891db7490fe9e6a6c996670e6d25b6bd027712db6050"
+metafile = true
+
+[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "b3f6ab1279c1d4f166ecedb854a8f44212be7795da22a439492308670614f0fa"
 metafile = true
@@ -381,6 +396,11 @@ hash = "21950f7046e9750a6714e8a3785f60acbbb6507792ed6486c9032402c90466e3"
 metafile = true
 
 [[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "2f0007c8e114ff43d2ba0250a3db8a5c6ea75d2705429839f16b54a896adbf6c"
+metafile = true
+
+[[files]]
 file = "mods/craftingpad.pw.toml"
 hash = "c24f639d603067b4930afa261923885764ce16db45a79fc85a5e145cbecacbf1"
 metafile = true
@@ -388,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
+metafile = true
+
+[[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "e6ce78af13cd662ab6dedf5c67d8b9d9210b66242593cf1be08f45ed935d4af7"
 metafile = true
 
 [[files]]
@@ -716,6 +741,11 @@ hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
 
 [[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "63914b645092557cf4824cf3be35e71f5cf8b9345a1c45de27d5da13e97b48f4"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "db19edc58c7779aba173e9aae60a550f16535f9395046afc870982157aaedb5a"
 metafile = true
@@ -728,6 +758,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+metafile = true
+
+[[files]]
+file = "mods/nmuk.pw.toml"
+hash = "bdf515306fb11b0bf6d269fe869e5f6ab417ddc4f944923b0d667aa6656fe2dd"
 metafile = true
 
 [[files]]
