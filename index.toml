@@ -335,11 +335,6 @@ hash = "72b573927baeb87fffc9228cc7b22678f4d41d71b6e1d76f27e936192c1f3896"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
-metafile = true
-
-[[files]]
 file = "mods/capybara-fabric.pw.toml"
 hash = "66da0fec8e8aef0a2937aed297cf37a7f66d59254064d11984cc60f98a343c39"
 metafile = true
@@ -876,12 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "3c1887a5e3c034669c0e180d61fcf3a7446b61c1f112dfd09347851d00a6dcae"
-metafile = true
-
-[[files]]
-file = "mods/servercore.pw.toml"
-hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
+hash = "811b544eaa99b1882faa2511d8b69dd6e18edbc0b22cb6a6fa036a0dea089d0f"
 metafile = true
 
 [[files]]
