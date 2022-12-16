@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
-hash = "2f0007c8e114ff43d2ba0250a3db8a5c6ea75d2705429839f16b54a896adbf6c"
+hash = "8db5b92c6a279efb9688b6b86058a1727f43434bd59fdd29f980c26768852a7e"
 metafile = true
 
 [[files]]
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "37699cb73f14ec7cc0e29da04ea9e872223638ce6f625ecddbe559599cff2396"
+hash = "b89d27e595841b60b1c5151bcc7059367b853106431b49137c5e73e0ef2724c4"
 metafile = true
 
 [[files]]
@@ -1031,12 +1031,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9f358b50737609e61b3fa7eeeb2d59294dd42b9c5977a86aabaca00ed5af1e6d"
+hash = "9140df52c99d19879399e11a47b5fca38aa578a08424bde829f32a77afd14e7e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "21d4fa50f7fc8c1be39e6575941c1ff50cc9e9c64cd0c594b52c713c81c4d579"
+hash = "58597c005d0dd721e5a6d307bd35680f57e31d128fd10eb3848bc7d188c71df6"
 metafile = true
 
 [[files]]
