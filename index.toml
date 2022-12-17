@@ -530,6 +530,11 @@ hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
+file = "mods/fabric-per-player-spawns.pw.toml"
+hash = "84782da2e7c7c4f22576149177dd0345de2a69f64ddff7abb171dc010d07c01b"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
 metafile = true
