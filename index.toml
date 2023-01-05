@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ed8bebd9c83a8dbc65f3ca5292211befed79ef84de6c17f43e58e8f492b773b2"
+hash = "c6bc086f111ee90dd9534f0d2e28f62fc0039fc1e1c1f06ff5c3c17d0b24f728"
 metafile = true
 
 [[files]]
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "09e480f72ade9894a17854a13cccf43ab2d0c84a498960b933836d8b366572ed"
+hash = "5750a9ce7559c5b4933e4ce54eb3ba5d304364f3e6116288c909f2505a7088d5"
 metafile = true
 
 [[files]]
