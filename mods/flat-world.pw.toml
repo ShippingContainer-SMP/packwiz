@@ -1,13 +1,13 @@
 name = "Flat World"
-filename = "flatworld-1.0.3+1.19.2.jar"
+filename = "flatworld-1.0.5+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xZIo4pHq/versions/HCK1nvOQ/flatworld-1.0.3%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/xZIo4pHq/versions/QZUZWI62/flatworld-1.0.5%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "e06fa6948e99f7e4f0276bfbc9dcd9ffa5ff66d3"
+hash = "87b6c9307dabec8c43c6492a7d48b95d86122fec"
 
 [update]
 [update.modrinth]
 mod-id = "xZIo4pHq"
-version = "HCK1nvOQ"
+version = "QZUZWI62"
