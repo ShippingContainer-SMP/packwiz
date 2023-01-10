@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "FIX.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "_config.yml"
 hash = "485e7574c4a5fcb8433e32d7bcaea2a0f0be2db482b06bba1abc7b8d6957221e"
 
@@ -350,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpeted-stairs.pw.toml"
-hash = "f947483a2d1f75a4fc0eb4eec83ea69586adef826bf93d85e6a85c84011b4897"
+hash = "ec9740258b959df88a1ac119ba4f66c0ac78e5e74f5d879ae7a6d4f1b222b403"
 metafile = true
 
 [[files]]
@@ -365,12 +361,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8440097630bb5576edaf891db7490fe9e6a6c996670e6d25b6bd027712db6050"
+hash = "68d606ae34815023ff4a7d3f76dd6bf08d0f47fa34045a8226a9a1bbc6f0de87"
 metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "c638f4444cdf3bf1097ba4cd728f9c94c75e5b8284d93c8e71a84ab74aa01eb4"
+hash = "e0f944e93a2928124ced6a8e82b5dc46df578fcf13ffeb01e40ed6c7ee19c7bd"
 metafile = true
 
 [[files]]
@@ -385,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c6bc086f111ee90dd9534f0d2e28f62fc0039fc1e1c1f06ff5c3c17d0b24f728"
+hash = "072d8560e211ca06048bedc494224da54138359b1c9dccbff3819ef6a29ad916"
 metafile = true
 
 [[files]]
@@ -490,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/enderchests-fabric.pw.toml"
-hash = "27c59c047bc2fc83fa222d05e47e20d6f34fb955c56ebe6c7fc148835f626ffe"
+hash = "a4105dc52e5bb0a674e9b292eea392dbefb923193839183b37bff2e42336b0b7"
 metafile = true
 
 [[files]]
@@ -580,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "63abc798591351fddc8069cf92991ffe6e058f939e259a27d284270e835e9530"
+hash = "7ae83690f725e59e7d527fc272e16a120a7fa683f25b4e4142b121b3828ecfc5"
 metafile = true
 
 [[files]]
@@ -620,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d5f2a025813192b3782e7fbeb1223fe28b71bd4120ffb3b0d1ec7df6bcf8c569"
+hash = "7e6a77d0ebdb13f5a90507620f22d7fb29926c6d9683366d48f61ed442727e69"
 metafile = true
 
 [[files]]
@@ -740,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "5750a9ce7559c5b4933e4ce54eb3ba5d304364f3e6116288c909f2505a7088d5"
+hash = "918d72fd155a74bb5c4ab465e1a4ab5d2b11760838dc629b4e3ad60403f82e62"
 metafile = true
 
 [[files]]
@@ -755,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "1dbd1e83fd8b81a7488d432341041d3ef49873d7b26b06e42fce436ced32f4b1"
+hash = "9506b1b7caa8550d12aecf50d02fbeeed90f3775a6597021f2953886e4d0eb47"
 metafile = true
 
 [[files]]
@@ -860,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "b39a29623977769f92afcebfdcfa95d71acb2d513b4611a9462c0964b2f30294"
+hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
 metafile = true
 
 [[files]]
@@ -880,7 +876,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b5b1e65d31de2f6ccd5ec6474f778aa5eb3e788b3c7aa73102145df2ff37fc53"
+hash = "af103d485d7c217f5fc9a965e1bb2a2d1b13fda12a8ab019321742ebdf2cc780"
 metafile = true
 
 [[files]]
@@ -890,7 +886,7 @@ metafile = true
 
 [[files]]
 file = "mods/shetiphiancore-fabric.pw.toml"
-hash = "7ed8ccc2ab1e984da37776df01c1d03be14fc6479e53c061ae2aaa1ad78c830e"
+hash = "5e6b77d824eaf5249a451d058f1bfb699d09f6786a1b4071d83f58331fe55500"
 metafile = true
 
 [[files]]
